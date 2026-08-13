@@ -14,7 +14,7 @@
             "last_commit": "2026-08-13T03:37:04Z",
             "owner": "elixir-nx",
             "repo": "nx",
-            "stars": 2899
+            "stars": 2898
           }
         },
         {
@@ -81,7 +81,7 @@
             "last_commit": "2026-08-12T15:17:30Z",
             "owner": "elixir-nx",
             "repo": "scholar",
-            "stars": 496
+            "stars": 495
           }
         },
         {
@@ -157,7 +157,7 @@
             "last_commit": "2026-08-11T01:54:53Z",
             "owner": "elixir-nx",
             "repo": "axon",
-            "stars": 1690
+            "stars": 1688
           }
         },
         {
@@ -185,7 +185,7 @@
             "last_commit": "2026-02-10T18:18:43Z",
             "owner": "elixir-nx",
             "repo": "ortex",
-            "stars": 208
+            "stars": 207
           }
         }
       ],
@@ -306,7 +306,7 @@
             "last_commit": "2025-06-07T23:53:41Z",
             "owner": "thmsmlr",
             "repo": "instructor_ex",
-            "stars": 781
+            "stars": 782
           }
         },
         {
@@ -317,10 +317,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-12T20:26:32Z",
+            "last_commit": "2026-08-13T11:53:58Z",
             "owner": "agentjido",
             "repo": "req_llm",
-            "stars": 557
+            "stars": 558
           }
         },
         {
@@ -345,10 +345,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-12T11:45:59Z",
+            "last_commit": "2026-08-13T09:18:16Z",
             "owner": "cyberchitta",
             "repo": "openai_ex",
-            "stars": 215
+            "stars": 216
           }
         },
         {
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-10T19:47:52Z",
             "owner": "agentjido",
             "repo": "jido",
-            "stars": 1803
+            "stars": 1804
           }
         },
         {
@@ -592,7 +592,7 @@
             "last_commit": "2026-08-06T14:05:22Z",
             "owner": "brainlid",
             "repo": "langchain",
-            "stars": 1192
+            "stars": 1193
           }
         },
         {
@@ -634,7 +634,7 @@
             "last_commit": "2024-11-10T20:45:44Z",
             "owner": "nrrso",
             "repo": "swarm_ex",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -679,10 +679,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-12T18:51:34Z",
+            "last_commit": "2026-08-13T12:46:29Z",
             "owner": "tidewave-ai",
             "repo": "tidewave_phoenix",
-            "stars": 842
+            "stars": 843
           }
         },
         {
@@ -819,7 +819,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-13T02:05:53Z",
+            "last_commit": "2026-08-13T16:38:38Z",
             "owner": "azmaveth",
             "repo": "ex_mcp",
             "stars": 21
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:01:53.485Z",
+    "last_updated": "2026-08-13T16:56:00.382Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
     "enhanced_repository": "enhansome/enhansome-ml-gen-ai-elixir",
