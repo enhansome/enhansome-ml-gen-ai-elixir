@@ -11,7 +11,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T17:19:27Z",
+            "last_commit": "2026-08-16T19:30:45Z",
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2899
@@ -78,7 +78,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-16T06:35:17Z",
+            "last_commit": "2026-08-17T07:10:05Z",
             "owner": "elixir-nx",
             "repo": "scholar",
             "stars": 495
@@ -317,7 +317,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T13:04:48Z",
+            "last_commit": "2026-08-17T11:21:45Z",
             "owner": "agentjido",
             "repo": "req_llm",
             "stars": 561
@@ -331,7 +331,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-16T13:56:28Z",
+            "last_commit": "2026-08-17T16:14:42Z",
             "owner": "georgeguimaraes",
             "repo": "arcana",
             "stars": 326
@@ -471,7 +471,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T15:21:45Z",
+            "last_commit": "2026-08-17T13:22:15Z",
             "owner": "doofinder",
             "repo": "llm_composer",
             "stars": 39
@@ -578,7 +578,7 @@
             "last_commit": "2026-08-14T13:01:45Z",
             "owner": "agentjido",
             "repo": "jido",
-            "stars": 1807
+            "stars": 1808
           }
         },
         {
@@ -603,7 +603,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-15T04:18:07Z",
+            "last_commit": "2026-08-17T00:29:17Z",
             "owner": "sagents-ai",
             "repo": "sagents",
             "stars": 265
@@ -679,10 +679,10 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-16T11:53:46Z",
+            "last_commit": "2026-08-17T16:25:42Z",
             "owner": "tidewave-ai",
             "repo": "tidewave_phoenix",
-            "stars": 845
+            "stars": 846
           }
         },
         {
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "Elixir",
-            "last_commit": "2026-08-14T13:04:45Z",
+            "last_commit": "2026-08-17T14:09:31Z",
             "owner": "agentjido",
             "repo": "llmdb",
             "stars": 55
@@ -927,7 +927,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T16:24:19.139Z",
+    "last_updated": "2026-08-17T16:27:25.410Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
     "enhanced_repository": "enhansome/enhansome-ml-gen-ai-elixir",
