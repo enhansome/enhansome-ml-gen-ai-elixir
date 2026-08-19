@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308172757,
             "language": "Elixir",
             "last_commit": "2026-08-18T16:13:06Z",
             "owner": "elixir-nx",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 388683644,
             "language": "Elixir",
             "last_commit": "2026-08-09T22:24:06Z",
             "owner": "elixir-explorer",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 372499099,
             "language": "Elixir",
             "last_commit": "2026-06-18T12:14:30Z",
             "owner": "livebook-dev",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 921893998,
             "language": "Elixir",
             "last_commit": "2026-05-18T12:03:00Z",
             "owner": "livebook-dev",
@@ -63,801 +67,863 @@
       "title": "Core Tools"
     },
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Scholar",
+              "description": "Traditional machine learning tools built on top of Nx. Implements algorithms for:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 461248297,
+                "language": "Elixir",
+                "last_commit": "2026-08-17T07:10:05Z",
+                "owner": "elixir-nx",
+                "repo": "scholar",
+                "stars": 495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EXGBoost",
+              "description": "Decision Trees implemented using the XGBoost C API.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 629175354,
+                "language": "Elixir",
+                "last_commit": "2024-06-08T04:02:33Z",
+                "owner": "acalejos",
+                "repo": "exgboost",
+                "stars": 185
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Soothsayer",
+              "description": "Time series forecasting library inspired by Facebook's Prophet and NeuralProphet.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 830011211,
+                "language": "Elixir",
+                "last_commit": "2026-06-24T06:43:01Z",
+                "owner": "georgeguimaraes",
+                "repo": "soothsayer",
+                "stars": 139
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mockinjay",
+              "description": "Implementation of Microsoft's Hummingbird library for converting trained Decision Tree models into Nx tensor computations.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 650438646,
+                "language": "Elixir",
+                "last_commit": "2023-09-02T23:39:24Z",
+                "owner": "acalejos",
+                "repo": "mockingjay",
+                "stars": 75
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ulam",
+              "description": "Elixir interface to Stan, a probabilist programming language.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 729661771,
+                "language": "HTML",
+                "last_commit": "2024-10-04T19:30:00Z",
+                "owner": "tmbb",
+                "repo": "ulam_ex",
+                "stars": 10
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Traditional Machine Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Axon",
+              "description": "Neural Networks for Elixir. Built with Nx.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 332750859,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T21:41:49Z",
+                "owner": "elixir-nx",
+                "repo": "axon",
+                "stars": 1689
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bumblebee",
+              "description": "Pre-trained neural network models on top of Axon. Provides integration with Hugging Face.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488232232,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T02:21:19Z",
+                "owner": "elixir-nx",
+                "repo": "bumblebee",
+                "stars": 1662
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ortex",
+              "description": "Wrapper around ONNX. Enables you to run ONNX models using Nx.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 639075609,
+                "language": "Elixir",
+                "last_commit": "2026-02-10T18:18:43Z",
+                "owner": "elixir-nx",
+                "repo": "ortex",
+                "stars": 208
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deep Learning"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Evision",
+              "description": "OpenCV bindings for Elixir/Erlang.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 428101112,
+                "language": "Elixir",
+                "last_commit": "2026-07-22T11:15:52Z",
+                "owner": "cocoa-xu",
+                "repo": "evision",
+                "stars": 392
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YOLO",
+              "description": "Real-time object detection using YOLOv8 models with 38ms processing time and optional Rust NIF for performance.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 899625567,
+                "language": "Elixir",
+                "last_commit": "2025-10-13T21:39:04Z",
+                "owner": "poeticoding",
+                "repo": "yolo_elixir",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NxImage",
+              "description": "Image processing in Nx.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 567784548,
+                "language": "Elixir",
+                "last_commit": "2024-02-19T14:47:06Z",
+                "owner": "elixir-nx",
+                "repo": "nx_image",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ExFaiss",
+              "description": "Elixir front-end to Facebook AI Similarity Search (Faiss) for efficient similarity search and clustering of dense vectors.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 577045008,
+                "language": "C++",
+                "last_commit": "2023-05-05T18:43:14Z",
+                "owner": "elixir-nx",
+                "repo": "ex_faiss",
+                "stars": 43
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Stephen",
+              "description": "ColBERT-style neural retrieval for Elixir.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132264058,
+                "language": "Elixir",
+                "last_commit": "2026-08-05T19:33:37Z",
+                "owner": "georgeguimaraes",
+                "repo": "stephen",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leidenfold",
+              "description": "Elixir bindings for the Leiden community detection algorithm.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1128281815,
+                "language": "Elixir",
+                "last_commit": "2026-06-23T18:53:12Z",
+                "owner": "georgeguimaraes",
+                "repo": "leidenfold",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Vector Search & Similarity"
+        }
+      ],
       "title": "Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "Scholar",
-          "description": "Traditional machine learning tools built on top of Nx. Implements algorithms for:",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-17T07:10:05Z",
-            "owner": "elixir-nx",
-            "repo": "scholar",
-            "stars": 495
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Instructor.ex",
+              "description": "Structured outputs from LLMs using Ecto schemas. Works with OpenAI, llama.cpp and Bumblebee.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 733373734,
+                "language": "Elixir",
+                "last_commit": "2025-06-07T23:53:41Z",
+                "owner": "thmsmlr",
+                "repo": "instructor_ex",
+                "stars": 782
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ReqLLM",
+              "description": "A Req-based package to call LLM APIs that standardizes the API calls and responses for LLM providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1051339863,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T12:34:13Z",
+                "owner": "agentjido",
+                "repo": "req_llm",
+                "stars": 562
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Arcana",
+              "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1121990211,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T21:20:31Z",
+                "owner": "georgeguimaraes",
+                "repo": "arcana",
+                "stars": 328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenAI.ex",
+              "description": "OpenAI API client with streaming, file uploads, and Azure OpenAI support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 625257928,
+                "language": "Elixir",
+                "last_commit": "2026-08-13T09:18:16Z",
+                "owner": "cyberchitta",
+                "repo": "openai_ex",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AshAi",
+              "description": "Structured outputs, vectorization and tool calling for your Ash application with LangChain integration and MCP server capabilities.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849581912,
+                "language": "Elixir",
+                "last_commit": "2026-08-12T20:42:57Z",
+                "owner": "ash-project",
+                "repo": "ash_ai",
+                "stars": 188
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstructorLite",
+              "description": "Lightweight structured outputs for LLMs using JSON schemas with multi-provider support including OpenAI, Anthropic, and Gemini.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 849697864,
+                "language": "Elixir",
+                "last_commit": "2026-08-17T18:43:39Z",
+                "owner": "martosaur",
+                "repo": "instructor_lite",
+                "stars": 142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Ollama-ex",
+              "description": "Elixir client for Ollama API with support for completions, chat, tools, and function calling.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 742939667,
+                "language": "Elixir",
+                "last_commit": "2026-02-10T16:06:22Z",
+                "owner": "aaronrussell",
+                "repo": "ollama-ex",
+                "stars": 138
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextChunker",
+              "description": "Semantic text chunking library optimized for vector embedding and RAG applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 760059381,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T16:38:04Z",
+                "owner": "revelrylabs",
+                "repo": "text_chunker_ex",
+                "stars": 110
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tribunal",
+              "description": "LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1132741688,
+                "language": "Elixir",
+                "last_commit": "2026-07-23T20:03:39Z",
+                "owner": "georgeguimaraes",
+                "repo": "tribunal",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rag",
+              "description": "Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 887507533,
+                "language": "Elixir",
+                "last_commit": "2025-05-12T12:51:47Z",
+                "owner": "bitcrowd",
+                "repo": "rag",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ClaudeCode",
+              "description": "SDK for embedding Claude as an agentic AI in Elixir apps with tool calling and MCP integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1001514627,
+                "language": "Elixir",
+                "last_commit": "2026-06-05T13:26:15Z",
+                "owner": "guess",
+                "repo": "claude_code",
+                "stars": 94
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Honeycomb",
+              "description": "Fast LLM inference service and library built on Elixir, Bumblebee, and EXLA with OpenAI API compatibility.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 836821148,
+                "language": "Elixir",
+                "last_commit": "2026-01-15T18:30:34Z",
+                "owner": "seanmor5",
+                "repo": "honeycomb",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LLM Composer",
+              "description": "Multi-provider LLM library with routing, fallback, streaming, and cost tracking for OpenAI, Anthropic, Gemini, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 859910095,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T07:44:50Z",
+                "owner": "doofinder",
+                "repo": "llm_composer",
+                "stars": 39
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gemini.ex",
+              "description": "Elixir client for Google Gemini LLM supporting both AI Studio and Vertex AI.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997717307,
+                "language": "Elixir",
+                "last_commit": "2026-08-11T18:47:24Z",
+                "owner": "nshkrdotcom",
+                "repo": "gemini_ex",
+                "stars": 35
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JsonRemedy",
+              "description": "JSON repair library for fixing malformed LLM outputs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997730042,
+                "language": "Elixir",
+                "last_commit": "2026-04-04T23:35:26Z",
+                "owner": "nshkrdotcom",
+                "repo": "json_remedy",
+                "stars": 33
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mentor",
+              "description": "Library for generating validated structured outputs from LLMs with automatic retries and schema validation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 917708796,
+                "language": "Elixir",
+                "last_commit": "2025-07-18T13:41:51Z",
+                "owner": "zoedsoupe",
+                "repo": "mentor",
+                "stars": 22
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DSPEx",
+              "description": "DSPy port for Elixir with data-driven prompt optimization.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 997178529,
+                "language": "Elixir",
+                "last_commit": "2026-04-09T06:35:17Z",
+                "owner": "nshkrdotcom",
+                "repo": "ds_ex",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Handwave",
+              "description": "LLM-powered control flow for Elixir: conditional logic, text rewriting, and routing decisions via natural language rather than code.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1136470381,
+                "language": "Elixir",
+                "last_commit": "2026-06-03T19:18:40Z",
+                "owner": "martosaur",
+                "repo": "handwave",
+                "stars": 10
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mistral",
+              "description": "Open-source Elixir client for the Mistral AI API covering chat completions, function calling, embeddings, streaming, OCR, fine-tuning, and batch processing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 947473707,
+                "language": "Elixir",
+                "last_commit": "2026-03-02T03:19:27Z",
+                "owner": "rodloboz",
+                "repo": "mistral",
+                "stars": 9
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "LLM Tools"
         },
         {
-          "node_type": "item",
-          "title": "EXGBoost",
-          "description": "Decision Trees implemented using the XGBoost C API.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-06-08T04:02:33Z",
-            "owner": "acalejos",
-            "repo": "exgboost",
-            "stars": 185
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Jido",
+              "description": "Framework for building autonomous, distributed agent systems with modular actions, stateful agents, and sensors. AI-framework agnostic.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 903999320,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T12:31:26Z",
+                "owner": "agentjido",
+                "repo": "jido",
+                "stars": 1807
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LangChain",
+              "description": "Framework for developing applications powered by language models, with support for OpenAI, Anthropic, Google, and Bumblebee models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 665653661,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T00:07:28Z",
+                "owner": "brainlid",
+                "repo": "langchain",
+                "stars": 1194
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Sagents",
+              "description": "Framework for interactive AI agents with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and a Phoenix LiveView debugger.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1149341400,
+                "language": "Elixir",
+                "last_commit": "2026-08-17T18:55:21Z",
+                "owner": "sagents-ai",
+                "repo": "sagents",
+                "stars": 265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Jido.AI",
+              "description": "LLM integration layer for Jido. Provides actions and reasoning strategies (ReAct, Chain-of-Thought, Tree-of-Thoughts) for building intelligent agents with OpenAI, Anthropic, and other providers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 904841321,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T11:33:34Z",
+                "owner": "agentjido",
+                "repo": "jido_ai",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwarmEx",
+              "description": "Lightweight library for AI agent orchestration with built-in telemetry and tool integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 879410146,
+                "language": "Elixir",
+                "last_commit": "2024-11-10T20:45:44Z",
+                "owner": "nrrso",
+                "repo": "swarm_ex",
+                "stars": 91
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Synapse",
+              "description": "Multi-agent orchestration framework with Postgres persistence.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 908471608,
+                "language": "Elixir",
+                "last_commit": "2026-08-12T03:24:26Z",
+                "owner": "nshkrdotcom",
+                "repo": "synapse",
+                "stars": 49
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Bazaar",
+              "description": "Elixir SDK for serving AI agent commerce protocols (UCP and ACP) from a single Phoenix handler. Supports Google Shopping agents (UCP) and OpenAI/Stripe agents (ACP) with automatic request/response translation between protocols.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1134618924,
+                "language": "Elixir",
+                "last_commit": "2026-02-17T21:32:11Z",
+                "owner": "georgeguimaraes",
+                "repo": "bazaar",
+                "stars": 5
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Agent Frameworks"
         },
         {
-          "node_type": "item",
-          "title": "Soothsayer",
-          "description": "Time series forecasting library inspired by Facebook's Prophet and NeuralProphet.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-24T06:43:01Z",
-            "owner": "georgeguimaraes",
-            "repo": "soothsayer",
-            "stars": 139
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mockinjay",
-          "description": "Implementation of Microsoft's Hummingbird library for converting trained Decision Tree models into Nx tensor computations.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2023-09-02T23:39:24Z",
-            "owner": "acalejos",
-            "repo": "mockingjay",
-            "stars": 75
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ulam",
-          "description": "Elixir interface to Stan, a probabilist programming language.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2024-10-04T19:30:00Z",
-            "owner": "tmbb",
-            "repo": "ulam_ex",
-            "stars": 10
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Tidewave Phoenix",
+              "description": "AI-powered development assistant for Phoenix web applications that connects editor AI assistants to web framework runtime via MCP.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968046142,
+                "language": "Elixir",
+                "last_commit": "2026-08-18T18:59:02Z",
+                "owner": "tidewave-ai",
+                "repo": "tidewave_phoenix",
+                "stars": 846
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Usage Rules",
+              "description": "Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 988748052,
+                "language": "Elixir",
+                "last_commit": "2026-08-01T17:01:37Z",
+                "owner": "ash-project",
+                "repo": "usage_rules",
+                "stars": 218
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-elixir",
+              "description": "Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1123032156,
+                "language": "Shell",
+                "last_commit": "2026-04-28T21:32:22Z",
+                "owner": "georgeguimaraes",
+                "repo": "claude-code-elixir",
+                "stars": 168
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Anubis MCP",
+              "description": "SDK for the Model Context Protocol (MCP) with support for multiple transport options (STDIO, HTTP/SSE, WebSocket).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1029217941,
+                "language": "Elixir",
+                "last_commit": "2026-08-17T19:20:56Z",
+                "owner": "zoedsoupe",
+                "repo": "anubis-mcp",
+                "stars": 165
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Beamlens",
+              "description": "AI-powered runtime intelligence for the BEAM. Lives in your supervision tree and uses LLMs to explain metrics, diagnose incidents, detect anomalies, and trace message queue bottlenecks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1126789320,
+                "language": "Elixir",
+                "last_commit": "2026-05-10T16:10:33Z",
+                "owner": "beamlens",
+                "repo": "beamlens",
+                "stars": 136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MCP Proxy",
+              "description": "Proxy that connects STDIO-based MCP clients to HTTP-based Server-Sent Events (SSE) MCP servers.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 964723254,
+                "language": "Elixir",
+                "last_commit": "2025-05-06T18:33:52Z",
+                "owner": "tidewave-ai",
+                "repo": "mcp_proxy_elixir",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HexDocs MCP",
+              "description": "Enables semantic search of Elixir package documentation for AI assistants via Model Context Protocol (MCP).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 959052039,
+                "language": "Elixir",
+                "last_commit": "2025-06-18T05:37:20Z",
+                "owner": "bradleygolden",
+                "repo": "hexdocs-mcp",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "llm_db",
+              "description": "LLM model metadata database with O(1) lookups for provider capabilities, pricing, and context limits. Packaged as a dependency snapshot with no runtime network calls needed.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1089661178,
+                "language": "Elixir",
+                "last_commit": "2026-08-19T12:20:04Z",
+                "owner": "agentjido",
+                "repo": "llmdb",
+                "stars": 55
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Evals",
+              "description": "Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1007394108,
+                "language": "Elixir",
+                "last_commit": "2026-08-06T01:33:49Z",
+                "owner": "ash-project",
+                "repo": "evals",
+                "stars": 48
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Alike",
+              "description": "Semantic similarity testing library using a wave operator () for assertions. Tests whether sentences convey the same meaning rather than exact matches, ideal for validating LLM outputs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1020167841,
+                "language": "Elixir",
+                "last_commit": "2026-06-19T06:43:08Z",
+                "owner": "georgeguimaraes",
+                "repo": "alike",
+                "stars": 45
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ex_mcp",
+              "description": "Complete Elixir implementation of the Model Context Protocol (v2025-11-25) with client and server support, multiple transports including native BEAM, and 2600+ tests.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 989917799,
+                "language": "Elixir",
+                "last_commit": "2026-08-13T23:20:46Z",
+                "owner": "azmaveth",
+                "repo": "ex_mcp",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LlmGuard",
+              "description": "AI firewall with prompt injection detection, PII redaction, and jailbreak prevention for LLM applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1073997150,
+                "language": "Elixir",
+                "last_commit": "2026-04-04T23:37:09Z",
+                "owner": "North-Shore-AI",
+                "repo": "LlmGuard",
+                "stars": 13
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AgentObs",
+              "description": "LLM agent observability with telemetry, token tracking, and OpenTelemetry spans following OpenInference conventions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1081758708,
+                "language": "Elixir",
+                "last_commit": "2026-06-17T21:36:01Z",
+                "owner": "lostbean",
+                "repo": "agent_obs",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development Tools"
         }
       ],
-      "title": "Traditional Machine Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Axon",
-          "description": "Neural Networks for Elixir. Built with Nx.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-16T00:27:11Z",
-            "owner": "elixir-nx",
-            "repo": "axon",
-            "stars": 1688
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bumblebee",
-          "description": "Pre-trained neural network models on top of Axon. Provides integration with Hugging Face.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-07-22T14:57:52Z",
-            "owner": "elixir-nx",
-            "repo": "bumblebee",
-            "stars": 1661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ortex",
-          "description": "Wrapper around ONNX. Enables you to run ONNX models using Nx.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-02-10T18:18:43Z",
-            "owner": "elixir-nx",
-            "repo": "ortex",
-            "stars": 208
-          }
-        }
-      ],
-      "title": "Deep Learning"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Evision",
-          "description": "OpenCV bindings for Elixir/Erlang.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-07-22T11:15:52Z",
-            "owner": "cocoa-xu",
-            "repo": "evision",
-            "stars": 392
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "YOLO",
-          "description": "Real-time object detection using YOLOv8 models with 38ms processing time and optional Rust NIF for performance.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-10-13T21:39:04Z",
-            "owner": "poeticoding",
-            "repo": "yolo_elixir",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "NxImage",
-          "description": "Image processing in Nx.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-02-19T14:47:06Z",
-            "owner": "elixir-nx",
-            "repo": "nx_image",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Computer Vision"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ExFaiss",
-          "description": "Elixir front-end to Facebook AI Similarity Search (Faiss) for efficient similarity search and clustering of dense vectors.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "C++",
-            "last_commit": "2023-05-05T18:43:14Z",
-            "owner": "elixir-nx",
-            "repo": "ex_faiss",
-            "stars": 43
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Stephen",
-          "description": "ColBERT-style neural retrieval for Elixir.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-05T19:33:37Z",
-            "owner": "georgeguimaraes",
-            "repo": "stephen",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Leidenfold",
-          "description": "Elixir bindings for the Leiden community detection algorithm.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-23T18:53:12Z",
-            "owner": "georgeguimaraes",
-            "repo": "leidenfold",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Vector Search & Similarity"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Generative AI"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Instructor.ex",
-          "description": "Structured outputs from LLMs using Ecto schemas. Works with OpenAI, llama.cpp and Bumblebee.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-06-07T23:53:41Z",
-            "owner": "thmsmlr",
-            "repo": "instructor_ex",
-            "stars": 782
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ReqLLM",
-          "description": "A Req-based package to call LLM APIs that standardizes the API calls and responses for LLM providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T10:57:05Z",
-            "owner": "agentjido",
-            "repo": "req_llm",
-            "stars": 562
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Arcana",
-          "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T15:55:07Z",
-            "owner": "georgeguimaraes",
-            "repo": "arcana",
-            "stars": 327
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenAI.ex",
-          "description": "OpenAI API client with streaming, file uploads, and Azure OpenAI support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-13T09:18:16Z",
-            "owner": "cyberchitta",
-            "repo": "openai_ex",
-            "stars": 216
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AshAi",
-          "description": "Structured outputs, vectorization and tool calling for your Ash application with LangChain integration and MCP server capabilities.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-12T20:42:57Z",
-            "owner": "ash-project",
-            "repo": "ash_ai",
-            "stars": 188
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InstructorLite",
-          "description": "Lightweight structured outputs for LLMs using JSON schemas with multi-provider support including OpenAI, Anthropic, and Gemini.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-17T18:43:39Z",
-            "owner": "martosaur",
-            "repo": "instructor_lite",
-            "stars": 142
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Ollama-ex",
-          "description": "Elixir client for Ollama API with support for completions, chat, tools, and function calling.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-02-10T16:06:22Z",
-            "owner": "aaronrussell",
-            "repo": "ollama-ex",
-            "stars": 138
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "TextChunker",
-          "description": "Semantic text chunking library optimized for vector embedding and RAG applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T16:29:50Z",
-            "owner": "revelrylabs",
-            "repo": "text_chunker_ex",
-            "stars": 110
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Tribunal",
-          "description": "LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-07-23T20:03:39Z",
-            "owner": "georgeguimaraes",
-            "repo": "tribunal",
-            "stars": 108
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rag",
-          "description": "Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-05-12T12:51:47Z",
-            "owner": "bitcrowd",
-            "repo": "rag",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ClaudeCode",
-          "description": "SDK for embedding Claude as an agentic AI in Elixir apps with tool calling and MCP integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-05T13:26:15Z",
-            "owner": "guess",
-            "repo": "claude_code",
-            "stars": 94
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Honeycomb",
-          "description": "Fast LLM inference service and library built on Elixir, Bumblebee, and EXLA with OpenAI API compatibility.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-01-15T18:30:34Z",
-            "owner": "seanmor5",
-            "repo": "honeycomb",
-            "stars": 67
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LLM Composer",
-          "description": "Multi-provider LLM library with routing, fallback, streaming, and cost tracking for OpenAI, Anthropic, Gemini, and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T13:05:00Z",
-            "owner": "doofinder",
-            "repo": "llm_composer",
-            "stars": 39
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gemini.ex",
-          "description": "Elixir client for Google Gemini LLM supporting both AI Studio and Vertex AI.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-11T18:47:24Z",
-            "owner": "nshkrdotcom",
-            "repo": "gemini_ex",
-            "stars": 35
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "JsonRemedy",
-          "description": "JSON repair library for fixing malformed LLM outputs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-04-04T23:35:26Z",
-            "owner": "nshkrdotcom",
-            "repo": "json_remedy",
-            "stars": 33
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mentor",
-          "description": "Library for generating validated structured outputs from LLMs with automatic retries and schema validation.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-07-18T13:41:51Z",
-            "owner": "zoedsoupe",
-            "repo": "mentor",
-            "stars": 22
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "DSPEx",
-          "description": "DSPy port for Elixir with data-driven prompt optimization.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-04-09T06:35:17Z",
-            "owner": "nshkrdotcom",
-            "repo": "ds_ex",
-            "stars": 18
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Handwave",
-          "description": "LLM-powered control flow for Elixir: conditional logic, text rewriting, and routing decisions via natural language rather than code.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-03T19:18:40Z",
-            "owner": "martosaur",
-            "repo": "handwave",
-            "stars": 10
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Mistral",
-          "description": "Open-source Elixir client for the Mistral AI API covering chat completions, function calling, embeddings, streaming, OCR, fine-tuning, and batch processing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-03-02T03:19:27Z",
-            "owner": "rodloboz",
-            "repo": "mistral",
-            "stars": 9
-          }
-        }
-      ],
-      "title": "LLM Tools"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Jido",
-          "description": "Framework for building autonomous, distributed agent systems with modular actions, stateful agents, and sensors. AI-framework agnostic.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-14T13:01:45Z",
-            "owner": "agentjido",
-            "repo": "jido",
-            "stars": 1808
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LangChain",
-          "description": "Framework for developing applications powered by language models, with support for OpenAI, Anthropic, Google, and Bumblebee models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T14:46:39Z",
-            "owner": "brainlid",
-            "repo": "langchain",
-            "stars": 1193
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Sagents",
-          "description": "Framework for interactive AI agents with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and a Phoenix LiveView debugger.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-17T18:55:21Z",
-            "owner": "sagents-ai",
-            "repo": "sagents",
-            "stars": 265
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Jido.AI",
-          "description": "LLM integration layer for Jido. Provides actions and reasoning strategies (ReAct, Chain-of-Thought, Tree-of-Thoughts) for building intelligent agents with OpenAI, Anthropic, and other providers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T11:43:10Z",
-            "owner": "agentjido",
-            "repo": "jido_ai",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SwarmEx",
-          "description": "Lightweight library for AI agent orchestration with built-in telemetry and tool integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2024-11-10T20:45:44Z",
-            "owner": "nrrso",
-            "repo": "swarm_ex",
-            "stars": 91
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Synapse",
-          "description": "Multi-agent orchestration framework with Postgres persistence.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-12T03:24:26Z",
-            "owner": "nshkrdotcom",
-            "repo": "synapse",
-            "stars": 49
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Bazaar",
-          "description": "Elixir SDK for serving AI agent commerce protocols (UCP and ACP) from a single Phoenix handler. Supports Google Shopping agents (UCP) and OpenAI/Stripe agents (ACP) with automatic request/response translation between protocols.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-02-17T21:32:11Z",
-            "owner": "georgeguimaraes",
-            "repo": "bazaar",
-            "stars": 5
-          }
-        }
-      ],
-      "title": "Agent Frameworks"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Tidewave Phoenix",
-          "description": "AI-powered development assistant for Phoenix web applications that connects editor AI assistants to web framework runtime via MCP.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T16:22:37Z",
-            "owner": "tidewave-ai",
-            "repo": "tidewave_phoenix",
-            "stars": 846
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Usage Rules",
-          "description": "Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-01T17:01:37Z",
-            "owner": "ash-project",
-            "repo": "usage_rules",
-            "stars": 218
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "claude-code-elixir",
-          "description": "Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-04-28T21:32:22Z",
-            "owner": "georgeguimaraes",
-            "repo": "claude-code-elixir",
-            "stars": 168
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Anubis MCP",
-          "description": "SDK for the Model Context Protocol (MCP) with support for multiple transport options (STDIO, HTTP/SSE, WebSocket).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-17T19:20:56Z",
-            "owner": "zoedsoupe",
-            "repo": "anubis-mcp",
-            "stars": 165
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Beamlens",
-          "description": "AI-powered runtime intelligence for the BEAM. Lives in your supervision tree and uses LLMs to explain metrics, diagnose incidents, detect anomalies, and trace message queue bottlenecks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-05-10T16:10:33Z",
-            "owner": "beamlens",
-            "repo": "beamlens",
-            "stars": 136
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MCP Proxy",
-          "description": "Proxy that connects STDIO-based MCP clients to HTTP-based Server-Sent Events (SSE) MCP servers.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Elixir",
-            "last_commit": "2025-05-06T18:33:52Z",
-            "owner": "tidewave-ai",
-            "repo": "mcp_proxy_elixir",
-            "stars": 102
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "HexDocs MCP",
-          "description": "Enables semantic search of Elixir package documentation for AI assistants via Model Context Protocol (MCP).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2025-06-18T05:37:20Z",
-            "owner": "bradleygolden",
-            "repo": "hexdocs-mcp",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "llm_db",
-          "description": "LLM model metadata database with O(1) lookups for provider capabilities, pricing, and context limits. Packaged as a dependency snapshot with no runtime network calls needed.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-18T01:41:45Z",
-            "owner": "agentjido",
-            "repo": "llmdb",
-            "stars": 55
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Evals",
-          "description": "Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-06T01:33:49Z",
-            "owner": "ash-project",
-            "repo": "evals",
-            "stars": 48
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Alike",
-          "description": "Semantic similarity testing library using a wave operator () for assertions. Tests whether sentences convey the same meaning rather than exact matches, ideal for validating LLM outputs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-19T06:43:08Z",
-            "owner": "georgeguimaraes",
-            "repo": "alike",
-            "stars": 45
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ex_mcp",
-          "description": "Complete Elixir implementation of the Model Context Protocol (v2025-11-25) with client and server support, multiple transports including native BEAM, and 2600+ tests.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-08-13T23:20:46Z",
-            "owner": "azmaveth",
-            "repo": "ex_mcp",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "LlmGuard",
-          "description": "AI firewall with prompt injection detection, PII redaction, and jailbreak prevention for LLM applications.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-04-04T23:37:09Z",
-            "owner": "North-Shore-AI",
-            "repo": "LlmGuard",
-            "stars": 13
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AgentObs",
-          "description": "LLM agent observability with telemetry, token tracking, and OpenTelemetry spans following OpenInference conventions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Elixir",
-            "last_commit": "2026-06-17T21:36:01Z",
-            "owner": "lostbean",
-            "repo": "agent_obs",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Development Tools"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -866,6 +932,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 574557626,
             "language": "Elixir",
             "last_commit": "2023-06-02T13:27:18Z",
             "owner": "nickgnd",
@@ -880,6 +947,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 434313783,
             "language": null,
             "last_commit": "2026-03-25T11:39:47Z",
             "owner": "josevalim",
@@ -894,41 +962,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519838879,
             "language": null,
             "last_commit": "2024-01-11T17:10:21Z",
             "owner": "whatyouhide",
             "repo": "guide_async_processing_in_elixir",
             "stars": 155
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Machine Learning in Elixir",
-          "description": "Livebooks following along with the book Machine Learning in Elixir by Sean Moriarity",
-          "children": []
         }
       ],
       "title": "Livebooks & Examples"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Resources"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contributions"
-    },
-    {
-      "description": "This project is licensed under the CC0 License. Feel free to use, share, and adapt the content.",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:31:31.398Z",
+    "last_updated": "2026-08-19T12:45:38.788Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
+    "original_repository_id": 739420294,
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
     "enhanced_repository": "enhansome/enhansome-ml-gen-ai-elixir",
     "enhanced_repository_description": null,
