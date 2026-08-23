@@ -80,10 +80,10 @@
                 "archived": false,
                 "id": 461248297,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T07:55:43Z",
+                "last_commit": "2026-08-23T16:20:20Z",
                 "owner": "elixir-nx",
                 "repo": "scholar",
-                "stars": 496
+                "stars": 497
               }
             },
             {
@@ -631,7 +631,7 @@
                 "archived": false,
                 "id": 665653661,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T00:59:16Z",
+                "last_commit": "2026-08-23T05:33:06Z",
                 "owner": "brainlid",
                 "repo": "langchain",
                 "stars": 1196
@@ -646,7 +646,7 @@
                 "archived": false,
                 "id": 1149341400,
                 "language": "Elixir",
-                "last_commit": "2026-08-20T23:18:18Z",
+                "last_commit": "2026-08-22T20:05:06Z",
                 "owner": "sagents-ai",
                 "repo": "sagents",
                 "stars": 268
@@ -728,7 +728,7 @@
                 "archived": false,
                 "id": 968046142,
                 "language": "Elixir",
-                "last_commit": "2026-08-19T13:10:09Z",
+                "last_commit": "2026-08-23T07:31:48Z",
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
                 "stars": 846
@@ -833,10 +833,10 @@
                 "archived": false,
                 "id": 1089661178,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T01:41:17Z",
+                "last_commit": "2026-08-23T01:51:18Z",
                 "owner": "agentjido",
                 "repo": "llmdb",
-                "stars": 57
+                "stars": 58
               }
             },
             {
@@ -878,7 +878,7 @@
                 "archived": false,
                 "id": 989917799,
                 "language": "Elixir",
-                "last_commit": "2026-08-22T16:17:35Z",
+                "last_commit": "2026-08-23T01:30:51Z",
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
                 "stars": 21
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:23:42.056Z",
+    "last_updated": "2026-08-23T16:25:41.035Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
     "original_repository_id": 739420294,
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
