@@ -354,7 +354,7 @@
                 "archived": false,
                 "id": 1121990211,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T14:27:09Z",
+                "last_commit": "2026-08-24T16:32:15Z",
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
                 "stars": 330
@@ -429,7 +429,7 @@
                 "archived": false,
                 "id": 760059381,
                 "language": "Elixir",
-                "last_commit": "2026-08-18T16:38:04Z",
+                "last_commit": "2026-08-24T15:56:13Z",
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
                 "stars": 110
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:31:44.187Z",
+    "last_updated": "2026-08-24T16:37:12.931Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
     "original_repository_id": 739420294,
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",

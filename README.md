@@ -73,12 +73,12 @@ Besides giving an overview for experienced Elixir developers, this list can be u
 
 * [Instructor.ex](https://github.com/thmsmlr/instructor_ex) ⭐ 783 | 🐛 41 | 🌐 Elixir | 📅 2025-06-07 - Structured outputs from LLMs using Ecto schemas. Works with OpenAI, llama.cpp and Bumblebee.
 * [ReqLLM](https://github.com/agentjido/req_llm) ⭐ 565 | 🐛 2 | 🌐 Elixir | 📅 2026-08-24 - A Req-based package to call LLM APIs that standardizes the API calls and responses for LLM providers.
-* [Arcana](https://github.com/georgeguimaraes/arcana) ⭐ 330 | 🐛 7 | 🌐 Elixir | 📅 2026-08-24 - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.
+* [Arcana](https://github.com/georgeguimaraes/arcana) ⭐ 330 | 🐛 3 | 🌐 Elixir | 📅 2026-08-24 - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.
 * [OpenAI.ex](https://github.com/cyberchitta/openai_ex) ⭐ 216 | 🐛 2 | 🌐 Elixir | 📅 2026-08-13 - OpenAI API client with streaming, file uploads, and Azure OpenAI support.
 * [AshAi](https://github.com/ash-project/ash_ai) ⭐ 188 | 🐛 13 | 🌐 Elixir | 📅 2026-08-21 - Structured outputs, vectorization and tool calling for your Ash application with LangChain integration and MCP server capabilities.
 * [InstructorLite](https://github.com/martosaur/instructor_lite) ⭐ 144 | 🐛 0 | 🌐 Elixir | 📅 2026-08-24 - Lightweight structured outputs for LLMs using JSON schemas with multi-provider support including OpenAI, Anthropic, and Gemini.
 * [Ollama-ex](https://github.com/lebrunel/ollama-ex) ⭐ 139 | 🐛 1 | 🌐 Elixir | 📅 2026-02-10 - Elixir client for Ollama API with support for completions, chat, tools, and function calling.
-* [TextChunker](https://github.com/revelrylabs/text_chunker_ex) ⭐ 110 | 🐛 9 | 🌐 Elixir | 📅 2026-08-18 - Semantic text chunking library optimized for vector embedding and RAG applications.
+* [TextChunker](https://github.com/revelrylabs/text_chunker_ex) ⭐ 110 | 🐛 6 | 🌐 Elixir | 📅 2026-08-24 - Semantic text chunking library optimized for vector embedding and RAG applications.
 * [Tribunal](https://github.com/georgeguimaraes/tribunal) ⭐ 108 | 🐛 8 | 🌐 Elixir | 📅 2026-07-23 - LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality
 * [Rag](https://github.com/bitcrowd/rag) ⭐ 102 | 🐛 7 | 🌐 Elixir | 📅 2025-05-12 - Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.
 * [ClaudeCode](https://github.com/guess/claude_code) ⭐ 95 | 🐛 2 | 🌐 Elixir | 📅 2026-06-05 - SDK for embedding Claude as an agentic AI in Elixir apps with tool calling and MCP integration.
