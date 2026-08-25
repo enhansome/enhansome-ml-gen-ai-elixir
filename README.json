@@ -60,7 +60,7 @@
             "last_commit": "2026-05-18T12:03:00Z",
             "owner": "livebook-dev",
             "repo": "pythonx",
-            "stars": 316
+            "stars": 315
           }
         }
       ],
@@ -342,7 +342,7 @@
                 "last_commit": "2026-08-24T20:03:13Z",
                 "owner": "agentjido",
                 "repo": "req_llm",
-                "stars": 565
+                "stars": 566
               }
             },
             {
@@ -354,7 +354,7 @@
                 "archived": false,
                 "id": 1121990211,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T16:32:15Z",
+                "last_commit": "2026-08-25T16:21:09Z",
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
                 "stars": 331
@@ -402,7 +402,7 @@
                 "last_commit": "2026-08-24T18:14:56Z",
                 "owner": "martosaur",
                 "repo": "instructor_lite",
-                "stars": 144
+                "stars": 143
               }
             },
             {
@@ -504,7 +504,7 @@
                 "archived": false,
                 "id": 859910095,
                 "language": "Elixir",
-                "last_commit": "2026-08-20T07:45:31Z",
+                "last_commit": "2026-08-25T14:30:44Z",
                 "owner": "doofinder",
                 "repo": "llm_composer",
                 "stars": 39
@@ -649,7 +649,7 @@
                 "last_commit": "2026-08-24T04:06:32Z",
                 "owner": "sagents-ai",
                 "repo": "sagents",
-                "stars": 269
+                "stars": 270
               }
             },
             {
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 1089661178,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T01:42:29Z",
+                "last_commit": "2026-08-25T12:02:22Z",
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 58
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:20:11.366Z",
+    "last_updated": "2026-08-25T16:37:01.773Z",
     "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
     "original_repository_id": 739420294,
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
