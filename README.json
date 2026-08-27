@@ -80,7 +80,7 @@
                 "archived": false,
                 "id": 461248297,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T15:23:29Z",
+                "last_commit": "2026-08-27T07:17:09Z",
                 "owner": "elixir-nx",
                 "repo": "scholar",
                 "stars": 497
@@ -180,7 +180,7 @@
                 "last_commit": "2026-08-19T02:21:19Z",
                 "owner": "elixir-nx",
                 "repo": "bumblebee",
-                "stars": 1662
+                "stars": 1663
               }
             },
             {
@@ -339,7 +339,7 @@
                 "archived": false,
                 "id": 1051339863,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T16:21:50Z",
+                "last_commit": "2026-08-26T18:11:00Z",
                 "owner": "agentjido",
                 "repo": "req_llm",
                 "stars": 566
@@ -354,7 +354,7 @@
                 "archived": false,
                 "id": 1121990211,
                 "language": "Elixir",
-                "last_commit": "2026-08-25T16:21:09Z",
+                "last_commit": "2026-08-27T05:44:05Z",
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
                 "stars": 331
@@ -616,10 +616,10 @@
                 "archived": false,
                 "id": 903999320,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T14:25:39Z",
+                "last_commit": "2026-08-27T01:44:52Z",
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1821
+                "stars": 1823
               }
             },
             {
@@ -631,7 +631,7 @@
                 "archived": false,
                 "id": 665653661,
                 "language": "Elixir",
-                "last_commit": "2026-08-23T05:33:06Z",
+                "last_commit": "2026-08-26T20:29:34Z",
                 "owner": "brainlid",
                 "repo": "langchain",
                 "stars": 1196
@@ -661,7 +661,7 @@
                 "archived": false,
                 "id": 904841321,
                 "language": "Elixir",
-                "last_commit": "2026-08-19T11:33:34Z",
+                "last_commit": "2026-08-26T18:56:06Z",
                 "owner": "agentjido",
                 "repo": "jido_ai",
                 "stars": 203
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 1089661178,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T01:48:27Z",
+                "last_commit": "2026-08-27T08:50:17Z",
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 58
@@ -975,9 +975,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:47:42.754Z",
-    "original_repository": "georgeguimaraes/awesome-ml-gen-ai-elixir",
-    "original_repository_id": 739420294,
+    "last_updated": "2026-08-27T11:53:21.694Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 739420294,
+      "language": null,
+      "last_commit": "2026-02-20T16:58:09Z",
+      "owner": "georgeguimaraes",
+      "repo": "awesome-ml-gen-ai-elixir",
+      "stars": 293
+    },
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
     "enhanced_repository": "enhansome/enhansome-ml-gen-ai-elixir",
     "enhanced_repository_description": null,
