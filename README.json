@@ -354,7 +354,7 @@
                 "archived": false,
                 "id": 1121990211,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T05:44:05Z",
+                "last_commit": "2026-08-27T21:22:46Z",
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
                 "stars": 331
@@ -429,7 +429,7 @@
                 "archived": false,
                 "id": 760059381,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T18:50:08Z",
+                "last_commit": "2026-08-28T00:18:22Z",
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
                 "stars": 110
@@ -444,7 +444,7 @@
                 "archived": false,
                 "id": 1132741688,
                 "language": "Elixir",
-                "last_commit": "2026-07-23T20:03:39Z",
+                "last_commit": "2026-08-27T18:05:31Z",
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
                 "stars": 108
@@ -564,7 +564,7 @@
                 "archived": false,
                 "id": 997178529,
                 "language": "Elixir",
-                "last_commit": "2026-04-09T06:35:17Z",
+                "last_commit": "2026-08-27T20:33:42Z",
                 "owner": "nshkrdotcom",
                 "repo": "ds_ex",
                 "stars": 18
@@ -616,10 +616,10 @@
                 "archived": false,
                 "id": 903999320,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T01:44:52Z",
+                "last_commit": "2026-08-27T23:02:22Z",
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1823
+                "stars": 1824
               }
             },
             {
@@ -833,7 +833,7 @@
                 "archived": false,
                 "id": 1089661178,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T08:50:17Z",
+                "last_commit": "2026-08-27T17:53:27Z",
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 58
@@ -878,7 +878,7 @@
                 "archived": false,
                 "id": 989917799,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T02:52:25Z",
+                "last_commit": "2026-08-28T00:39:41Z",
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
                 "stars": 22
@@ -975,7 +975,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:53:21.694Z",
+    "last_updated": "2026-08-28T00:45:39.088Z",
     "original_repository_info": {
       "archived": false,
       "id": 739420294,
