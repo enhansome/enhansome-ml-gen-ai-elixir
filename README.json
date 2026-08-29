@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Multi-dimensional arrays (tensors) and numerical definitions for Elixir",
+            "homepage": null,
             "id": 308172757,
             "language": "Elixir",
+            "license": null,
             "last_commit": "2026-08-18T16:13:06Z",
+            "open_issues": 5,
             "owner": "elixir-nx",
             "repo": "nx",
-            "stars": 2901
+            "stars": 2901,
+            "topics": [
+              "elixir",
+              "gpu",
+              "jit",
+              "numerical",
+              "pytorch",
+              "tensor",
+              "xla"
+            ]
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         },
@@ -26,12 +39,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Series (one-dimensional) and dataframes (two-dimensional) for fast and elegant data exploration in Elixir",
+            "homepage": "https://hexdocs.pm/explorer",
             "id": 388683644,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2026-08-09T22:24:06Z",
+            "open_issues": 56,
             "owner": "elixir-explorer",
             "repo": "explorer",
-            "stars": 1291
+            "stars": 1291,
+            "topics": [
+              "data-science",
+              "dataframes",
+              "elixir",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         },
@@ -42,12 +65,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client-driven interactive widgets for Livebook",
+            "homepage": null,
             "id": 372499099,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T11:37:11Z",
+            "open_issues": 7,
             "owner": "livebook-dev",
             "repo": "kino",
-            "stars": 450
+            "stars": 450,
+            "topics": [
+              "charts",
+              "elixir",
+              "livebook",
+              "vega-lite"
+            ]
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         },
@@ -58,12 +91,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python interpreter embedded in Elixir",
+            "homepage": null,
             "id": 921893998,
             "language": "Elixir",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-18T12:03:00Z",
+            "open_issues": 3,
             "owner": "livebook-dev",
             "repo": "pythonx",
-            "stars": 315
+            "stars": 315,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         }
@@ -82,12 +120,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Traditional machine learning on top of Nx",
+                "homepage": null,
                 "id": 461248297,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T12:29:11Z",
+                "open_issues": 15,
                 "owner": "elixir-nx",
                 "repo": "scholar",
-                "stars": 497
+                "stars": 497,
+                "topics": [
+                  "elixir",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -98,12 +144,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir bindings to the XGBoost C API (https://xgboost.readthedocs.io/en/stable/c.html) using Native Implemented Functions (NIFs)",
+                "homepage": null,
                 "id": 629175354,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-08T04:02:33Z",
+                "open_issues": 10,
                 "owner": "acalejos",
                 "repo": "exgboost",
-                "stars": 186
+                "stars": 186,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -114,12 +165,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir library for time series forecasting, inspired by Facebook's Prophet and NeuralProphet",
+                "homepage": "https://hexdocs.pm/soothsayer",
                 "id": 830011211,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-24T06:43:01Z",
+                "open_issues": 5,
                 "owner": "georgeguimaraes",
                 "repo": "soothsayer",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "elixir",
+                  "machine-learning",
+                  "neural-networks",
+                  "neuralprophet"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -130,12 +191,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir implementation of Microsoft's Hummingbird library for converting trained Decision Tree models into tensor computations.",
+                "homepage": null,
                 "id": 650438646,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2023-09-02T23:39:24Z",
+                "open_issues": 1,
                 "owner": "acalejos",
                 "repo": "mockingjay",
-                "stars": 75
+                "stars": 75,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -146,12 +212,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir interface to Stan",
+                "homepage": null,
                 "id": 729661771,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-10-04T19:30:00Z",
+                "open_issues": 0,
                 "owner": "tmbb",
                 "repo": "ulam_ex",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -169,12 +240,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Nx-powered Neural Networks",
+                "homepage": null,
                 "id": 332750859,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T22:35:43Z",
+                "open_issues": 30,
                 "owner": "elixir-nx",
                 "repo": "axon",
-                "stars": 1688
+                "stars": 1688,
+                "topics": [
+                  "deep-learning",
+                  "elixir",
+                  "neural-networks",
+                  "nx",
+                  "optimizers"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -185,12 +267,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pre-trained Neural Network models in Axon (+ 🤗 Models integration)",
+                "homepage": null,
                 "id": 488232232,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-19T02:21:19Z",
+                "open_issues": 33,
                 "owner": "elixir-nx",
                 "repo": "bumblebee",
-                "stars": 1663
+                "stars": 1663,
+                "topics": [
+                  "axon",
+                  "elixir",
+                  "hugging-face",
+                  "machine-learning",
+                  "nx",
+                  "pre-trained",
+                  "transformer"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -201,12 +296,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ONNX Runtime bindings for Elixir",
+                "homepage": null,
                 "id": 639075609,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-02-10T18:18:43Z",
+                "open_issues": 9,
                 "owner": "elixir-nx",
                 "repo": "ortex",
-                "stars": 208
+                "stars": 208,
+                "topics": [
+                  "elixir",
+                  "machine-learning",
+                  "onnx",
+                  "onnxruntime",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -224,12 +330,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Evision: An OpenCV-Erlang/Elixir binding",
+                "homepage": "https://evision.app",
                 "id": 428101112,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-07-22T11:15:52Z",
+                "open_issues": 7,
                 "owner": "cocoa-xu",
                 "repo": "evision",
-                "stars": 392
+                "stars": 392,
+                "topics": [
+                  "elixir",
+                  "elixir-library",
+                  "erlang",
+                  "opencv"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -240,12 +356,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for object detection and seamless YOLO model integration in Elixir",
+                "homepage": "https://hex.pm/packages/yolo",
                 "id": 899625567,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2025-10-13T21:39:04Z",
+                "open_issues": 9,
                 "owner": "poeticoding",
                 "repo": "yolo_elixir",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -256,12 +377,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Image processing in Nx",
+                "homepage": null,
                 "id": 567784548,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2024-02-19T14:47:06Z",
+                "open_issues": 1,
                 "owner": "elixir-nx",
                 "repo": "nx_image",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "elixir",
+                  "image",
+                  "numerical",
+                  "nx",
+                  "tensor"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -279,12 +411,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Elixir front-end to Facebook AI Similarity Search (Faiss)",
+                "homepage": null,
                 "id": 577045008,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2023-05-05T18:43:14Z",
+                "open_issues": 6,
                 "owner": "elixir-nx",
                 "repo": "ex_faiss",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -295,12 +432,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ColBERT-style neural retrieval for Elixir",
+                "homepage": null,
                 "id": 1132264058,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-05T19:33:37Z",
+                "open_issues": 7,
                 "owner": "georgeguimaraes",
                 "repo": "stephen",
-                "stars": 8
+                "stars": 8,
+                "topics": [
+                  "bert",
+                  "colbert",
+                  "elixir",
+                  "embedding",
+                  "nx",
+                  "retrieval"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -311,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir bindings for the Leiden community detection algorithm",
+                "homepage": null,
                 "id": 1128281815,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-06-23T18:53:12Z",
+                "open_issues": 5,
                 "owner": "georgeguimaraes",
                 "repo": "leidenfold",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -340,12 +494,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured outputs for LLMs in Elixir",
+                "homepage": "https://hexdocs.pm/instructor",
                 "id": 733373734,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2025-06-07T23:53:41Z",
+                "open_issues": 41,
                 "owner": "thmsmlr",
                 "repo": "instructor_ex",
-                "stars": 783
+                "stars": 783,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -356,12 +515,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Composable Elixir library for LLM interactions built on Req and Finch",
+                "homepage": "https://jido.run/ecosystem/req_llm",
                 "id": 1051339863,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T19:15:21Z",
+                "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "req_llm",
-                "stars": 568
+                "stars": 568,
+                "topics": [
+                  "ai",
+                  "ai-providers",
+                  "elixir",
+                  "elixir-package",
+                  "llm",
+                  "req"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -372,12 +543,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard",
+                "homepage": "https://hexdocs.pm/arcana",
                 "id": 1121990211,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:34:27Z",
+                "open_issues": 2,
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
-                "stars": 332
+                "stars": 332,
+                "topics": [
+                  "agent",
+                  "elixir",
+                  "nx",
+                  "rag"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -388,12 +569,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Community maintained Elixir library for OpenAI API",
+                "homepage": "https://hexdocs.pm/openai_ex",
                 "id": 625257928,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-13T09:18:16Z",
+                "open_issues": 2,
                 "owner": "cyberchitta",
                 "repo": "openai_ex",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "chatgpt-api",
+                  "elixir",
+                  "livebook",
+                  "openai",
+                  "openai-api"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -404,12 +596,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured outputs, vectorization and tool calling for your Ash application",
+                "homepage": "https://ash-hq.org",
                 "id": 849581912,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-21T01:36:15Z",
+                "open_issues": 13,
                 "owner": "ash-project",
                 "repo": "ash_ai",
-                "stars": 189
+                "stars": 189,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -420,12 +617,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Structured outputs for LLMs in Elixir ",
+                "homepage": null,
                 "id": 849697864,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-28T21:01:48Z",
+                "open_issues": 0,
                 "owner": "martosaur",
                 "repo": "instructor_lite",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "ai",
+                  "ecto",
+                  "elixir",
+                  "instructor",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -436,12 +644,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A nifty little library for working with Ollama in Elixir.",
+                "homepage": "https://hexdocs.pm/ollama",
                 "id": 742939667,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-10T16:06:22Z",
+                "open_issues": 1,
                 "owner": "aaronrussell",
                 "repo": "ollama-ex",
-                "stars": 139
+                "stars": 139,
+                "topics": [
+                  "ai",
+                  "chatgpt-api",
+                  "elixir",
+                  "llms",
+                  "localllm",
+                  "ollama"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -452,12 +672,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library for semantically coherent text chunking",
+                "homepage": null,
                 "id": 760059381,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-28T00:18:22Z",
+                "open_issues": 5,
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
-                "stars": 110
+                "stars": 110,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -468,12 +693,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM evaluation framework for Elixir: evaluate and test LLM outputs, detect hallucinations, measure response quality",
+                "homepage": null,
                 "id": 1132741688,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-28T16:33:04Z",
+                "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
-                "stars": 108
+                "stars": 108,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -484,12 +714,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A library to make building performant RAG (Retrieval Augmented Generation) systems in Elixir easy.",
+                "homepage": "https://github.com/bitcrowd/rag",
                 "id": 887507533,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-05-12T12:51:47Z",
+                "open_issues": 7,
                 "owner": "bitcrowd",
                 "repo": "rag",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -500,12 +735,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Agent SDK for Elixir – Build AI agents with Claude Code",
+                "homepage": "https://code.claude.com",
                 "id": 1001514627,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-06-05T13:26:15Z",
+                "open_issues": 2,
                 "owner": "guess",
                 "repo": "claude_code",
-                "stars": 96
+                "stars": 96,
+                "topics": [
+                  "agents",
+                  "ai",
+                  "anthropic",
+                  "beam",
+                  "claude",
+                  "elixir",
+                  "genserver",
+                  "liveview",
+                  "otp",
+                  "phoenix",
+                  "sdk",
+                  "streaming"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -516,12 +769,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast LLM inference with Elixir and Bumblebee",
+                "homepage": null,
                 "id": 836821148,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-01-15T18:30:34Z",
+                "open_issues": 11,
                 "owner": "seanmor5",
                 "repo": "honeycomb",
-                "stars": 67
+                "stars": 67,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -532,12 +790,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir library for integrating large language models (LLMs) via HTTP, supporting OpenAI, Ollama, and other future backends.",
+                "homepage": "https://hex.pm/packages/llm_composer",
                 "id": 859910095,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-25T14:30:44Z",
+                "open_issues": 2,
                 "owner": "doofinder",
                 "repo": "llm_composer",
-                "stars": 39
+                "stars": 39,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -548,12 +811,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir Interface / Adapter for Google Gemini LLM, for both AI Studio and Vertex AI",
+                "homepage": null,
                 "id": 997717307,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-21T19:02:41Z",
+                "open_issues": 0,
                 "owner": "nshkrdotcom",
                 "repo": "gemini_ex",
-                "stars": 35
+                "stars": 35,
+                "topics": [
+                  "ai",
+                  "ai-integration",
+                  "ai-studio",
+                  "api-client",
+                  "beam",
+                  "elixir",
+                  "erlang-vm",
+                  "functional-programming",
+                  "gemini",
+                  "genai",
+                  "generative-ai",
+                  "google-gemini",
+                  "llm",
+                  "llm-client",
+                  "nshkr-ai-sdk",
+                  "otp",
+                  "sdk",
+                  "vertex-ai"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -564,12 +851,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A practical, multi-layered JSON repair library for Elixir that intelligently fixes malformed JSON strings commonly produced by LLMs, legacy systems, and data pipelines.",
+                "homepage": null,
                 "id": 997730042,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-04-04T23:35:26Z",
+                "open_issues": 3,
                 "owner": "nshkrdotcom",
                 "repo": "json_remedy",
-                "stars": 33
+                "stars": 33,
+                "topics": [
+                  "beam",
+                  "data-quality",
+                  "data-validation",
+                  "elixir",
+                  "erlang-vm",
+                  "error-recovery",
+                  "functional-programming",
+                  "json",
+                  "json-fix",
+                  "json-parser",
+                  "json-repair",
+                  "json-validation",
+                  "llm-infrastructure",
+                  "malformed-json",
+                  "nshkr-ai-infra",
+                  "otp"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -580,12 +889,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM strutured outputs done in a composable and extensible way for elixir",
+                "homepage": "https://hexdocs.pm/mentor",
                 "id": 917708796,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-07-18T13:41:51Z",
+                "open_issues": 6,
                 "owner": "zoedsoupe",
                 "repo": "mentor",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "elixir"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -596,12 +912,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DSPEx - Declarative Self-improving Elixir | A BEAM-Native AI Program Optimization Framework",
+                "homepage": null,
                 "id": 997178529,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-27T20:33:42Z",
+                "open_issues": 1,
                 "owner": "nshkrdotcom",
                 "repo": "ds_ex",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "ai",
+                  "ai-framework",
+                  "automated-optimization",
+                  "beam",
+                  "declarative-programming",
+                  "dspy",
+                  "elixir",
+                  "erlang-vm",
+                  "functional-programming",
+                  "llm-optimization",
+                  "machine-learning",
+                  "metaprogramming",
+                  "nshkr-ai-agents",
+                  "otp",
+                  "program-optimization",
+                  "prompt-engineering",
+                  "self-improving"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -612,12 +951,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Handwave your problems away with LLMs.",
+                "homepage": null,
                 "id": 1136470381,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-06-03T19:18:40Z",
+                "open_issues": 0,
                 "owner": "martosaur",
                 "repo": "handwave",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -628,12 +972,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Mistral is an open-source Elixir client for the Mistral AI API",
+                "homepage": "https://hex.pm/packages/mistral",
                 "id": 947473707,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-03-02T03:19:27Z",
+                "open_issues": 1,
                 "owner": "rodloboz",
                 "repo": "mistral",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -651,12 +1000,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.",
+                "homepage": "https://jido.run",
                 "id": 903999320,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:10:50Z",
+                "open_issues": 5,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1825
+                "stars": 1825,
+                "topics": [
+                  "agent-framework",
+                  "ai-agents",
+                  "core",
+                  "elixir",
+                  "elixir-package",
+                  "event-driven-architecture",
+                  "jido",
+                  "orchestration",
+                  "workflow"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -667,12 +1031,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.",
+                "homepage": "https://hexdocs.pm/langchain/",
                 "id": 665653661,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-26T20:29:34Z",
+                "open_issues": 29,
                 "owner": "brainlid",
                 "repo": "langchain",
-                "stars": 1196
+                "stars": 1196,
+                "topics": [
+                  "ai",
+                  "anthropic",
+                  "bumblebee",
+                  "chatgpt",
+                  "claude-ai",
+                  "elixir",
+                  "langchain",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -683,12 +1061,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Build interactive AI agents in Elixir with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and real-time Phoenix LiveView integration. Built on LangChain.",
+                "homepage": null,
                 "id": 1149341400,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T04:06:32Z",
+                "open_issues": 3,
                 "owner": "sagents-ai",
                 "repo": "sagents",
-                "stars": 271
+                "stars": 271,
+                "topics": [
+                  "agent",
+                  "agentic",
+                  "ai",
+                  "elixir",
+                  "hitl",
+                  "human-in-the-loop",
+                  "llm",
+                  "middleware"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -699,12 +1091,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI integration layer for Jido agents with LLM orchestration and reasoning strategies.",
+                "homepage": "https://jido.run/ecosystem/jido_ai",
                 "id": 904841321,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T14:27:45Z",
+                "open_issues": 9,
                 "owner": "agentjido",
                 "repo": "jido_ai",
-                "stars": 203
+                "stars": 203,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "elixir",
+                  "elixir-package",
+                  "jido",
+                  "llm"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -715,12 +1119,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir library for lightweight AI agent orchestration inspired by openai/swarm",
+                "homepage": null,
                 "id": 879410146,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2024-11-10T20:45:44Z",
+                "open_issues": 2,
                 "owner": "nrrso",
                 "repo": "swarm_ex",
-                "stars": 91
+                "stars": 91,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -731,12 +1140,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Headless, declarative multi-agent orchestration framework with a domain-agnostic signal bus, workflow engine with Postgres persistence, and configurable agent runtime (ships code review domain).",
+                "homepage": "https://github.com/nshkrdotcom/synapse",
                 "id": 908471608,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-12T03:24:26Z",
+                "open_issues": 0,
                 "owner": "nshkrdotcom",
                 "repo": "synapse",
-                "stars": 49
+                "stars": 49,
+                "topics": [
+                  "agent-orchestration",
+                  "ai",
+                  "beam",
+                  "concurrency",
+                  "elixir",
+                  "erlang-vm",
+                  "fault-tolerance",
+                  "gemini",
+                  "llm",
+                  "multi-agent",
+                  "multi-agent-systems",
+                  "nshkr-ai-agents",
+                  "openai",
+                  "orchestrator",
+                  "otp",
+                  "postgres",
+                  "req",
+                  "supervision",
+                  "telemetry",
+                  "workflows"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -747,12 +1182,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir SDK for UCP and ACP: serve Google, OpenAI, and Stripe agents from one handler",
+                "homepage": null,
                 "id": 1134618924,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-02-17T21:32:11Z",
+                "open_issues": 0,
                 "owner": "georgeguimaraes",
                 "repo": "bazaar",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -770,12 +1210,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MCP server with runtime-level tools for Phoenix development",
+                "homepage": "https://tidewave.ai/",
                 "id": 968046142,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-23T07:31:48Z",
+                "open_issues": 6,
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
-                "stars": 847
+                "stars": 847,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -786,12 +1231,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for synchronizing LLM rules files with your dependencies.",
+                "homepage": null,
                 "id": 988748052,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-01T17:01:37Z",
+                "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "usage_rules",
-                "stars": 220
+                "stars": 220,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -802,12 +1252,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code plugin marketplace for Elixir development",
+                "homepage": null,
                 "id": 1123032156,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-28T21:32:22Z",
+                "open_issues": 0,
                 "owner": "georgeguimaraes",
                 "repo": "claude-code-elixir",
-                "stars": 169
+                "stars": 169,
+                "topics": [
+                  "claude-code",
+                  "ecto",
+                  "elixir",
+                  "marketplace",
+                  "oban",
+                  "otp",
+                  "phoenix"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -818,12 +1281,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Elixir Model Context Protocol (MCP) SDK (hermes-mcp fork)",
+                "homepage": "https://hexdocs.pm/anubis_mcp",
                 "id": 1029217941,
                 "language": "Elixir",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-24T18:44:52Z",
+                "open_issues": 18,
                 "owner": "zoedsoupe",
                 "repo": "anubis-mcp",
-                "stars": 168
+                "stars": 168,
+                "topics": [
+                  "elixir",
+                  "mcp",
+                  "mcp-sdk"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -834,12 +1306,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Adaptive runtime intelligence for the BEAM.",
+                "homepage": "https://hexdocs.pm/beamlens",
                 "id": 1126789320,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-10T16:10:33Z",
+                "open_issues": 14,
                 "owner": "beamlens",
                 "repo": "beamlens",
-                "stars": 136
+                "stars": 136,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -850,12 +1327,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A proxy to use SSE MCPs from STDIO clients",
+                "homepage": null,
                 "id": 964723254,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2025-05-06T18:33:52Z",
+                "open_issues": 1,
                 "owner": "tidewave-ai",
                 "repo": "mcp_proxy_elixir",
-                "stars": 102
+                "stars": 102,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -866,12 +1348,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic search for Hex documentation, right in your editor ✨",
+                "homepage": "https://hexdocs.pm/hexdocs_mcp/readme.html",
                 "id": 959052039,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2025-06-18T05:37:20Z",
+                "open_issues": 2,
                 "owner": "bradleygolden",
                 "repo": "hexdocs-mcp",
-                "stars": 70
+                "stars": 70,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -882,12 +1369,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "LLM model metadata catalog with fast, capability-aware lookups",
+                "homepage": "https://llmcatalog.dev",
                 "id": 1089661178,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T15:37:04Z",
+                "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "llmdb",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "ai",
+                  "elixir",
+                  "elixir-package",
+                  "llm",
+                  "llmdb",
+                  "model-database"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -898,12 +1397,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for evaluating models against Elixir code, helping us find what works and what doesn't",
+                "homepage": null,
                 "id": 1007394108,
                 "language": "Elixir",
+                "license": null,
                 "last_commit": "2026-08-06T01:33:49Z",
+                "open_issues": 6,
                 "owner": "ash-project",
                 "repo": "evals",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -914,12 +1418,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Semantic similarity testing for Elixir. Test LLM outputs, chatbots, and NLP in Elixir",
+                "homepage": "http://hexdocs.pm/alike",
                 "id": 1020167841,
                 "language": "Elixir",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-19T06:43:08Z",
+                "open_issues": 5,
                 "owner": "georgeguimaraes",
                 "repo": "alike",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "elixir",
+                  "llm",
+                  "nlp",
+                  "testing",
+                  "testing-tools"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -930,12 +1445,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Model Context Protocol (MCP) and Agent Client Protocol (ACP) client/server library for Elixir",
+                "homepage": null,
                 "id": 989917799,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-08-28T01:39:18Z",
+                "open_issues": 2,
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
-                "stars": 22
+                "stars": 22,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -946,12 +1466,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "AI Firewall and guardrails for LLM-based Elixir applications",
+                "homepage": null,
                 "id": 1073997150,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-04-04T23:37:09Z",
+                "open_issues": 1,
                 "owner": "North-Shore-AI",
                 "repo": "LlmGuard",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "ai",
+                  "ai-firewall",
+                  "ai-safety",
+                  "beam",
+                  "content-filtering",
+                  "elixir",
+                  "ensemble-methods",
+                  "guardrails",
+                  "llm",
+                  "llm-security",
+                  "machine-learning",
+                  "nshkr-crucible",
+                  "otp",
+                  "prompt-injection",
+                  "reliability",
+                  "research",
+                  "safety-constraints",
+                  "security",
+                  "security-framework",
+                  "statistical-testing"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -962,12 +1508,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Elixir library for LLM agent observability",
+                "homepage": null,
                 "id": 1081758708,
                 "language": "Elixir",
+                "license": "MIT",
                 "last_commit": "2026-06-17T21:36:01Z",
+                "open_issues": 0,
                 "owner": "lostbean",
                 "repo": "agent_obs",
-                "stars": 12
+                "stars": 12,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -989,12 +1540,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programming Machine Learning - Elixir Livebooks ",
+            "homepage": null,
             "id": 574557626,
             "language": "Elixir",
+            "license": "MIT",
             "last_commit": "2023-06-02T13:27:18Z",
+            "open_issues": 2,
             "owner": "nickgnd",
             "repo": "programming-machine-learning-livebooks",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "deep-learning",
+              "elixir",
+              "livebook",
+              "machine-learning",
+              "neural-network",
+              "nx"
+            ]
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         },
@@ -1005,12 +1568,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My collection of Livebooks",
+            "homepage": null,
             "id": 434313783,
             "language": null,
+            "license": null,
             "last_commit": "2026-03-25T11:39:47Z",
+            "open_issues": 0,
             "owner": "josevalim",
             "repo": "livebooks",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         },
@@ -1021,12 +1589,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Livebook-based guide to async processing in Elixir. 🏃",
+            "homepage": null,
             "id": 519838879,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2024-01-11T17:10:21Z",
+            "open_issues": 0,
             "owner": "whatyouhide",
             "repo": "guide_async_processing_in_elixir",
-            "stars": 155
+            "stars": 155,
+            "topics": [
+              "async-programming",
+              "elixir",
+              "elixir-lang",
+              "interactive",
+              "interactive-notebooks",
+              "livebook"
+            ]
           },
           "first_seen": "2026-08-29T00:26:10.509Z"
         }
@@ -1035,15 +1615,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:26:10.509Z",
+    "last_updated": "2026-08-29T04:47:41.092Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
+      "homepage": null,
       "id": 739420294,
       "language": null,
+      "license": "NOASSERTION",
       "last_commit": "2026-02-20T16:58:09Z",
+      "open_issues": 1,
       "owner": "georgeguimaraes",
       "repo": "awesome-ml-gen-ai-elixir",
-      "stars": 293
+      "stars": 293,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "elixir",
+        "elixir-lang",
+        "elixir-language",
+        "elixir-programming-language",
+        "machine-learning",
+        "ml"
+      ]
     },
     "original_repository_sha": "4397b51db6c6a6e8801afc5264df25a53cad15e0",
     "enhanced_repository": "enhansome/enhansome-ml-gen-ai-elixir",
