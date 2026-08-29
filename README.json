@@ -16,7 +16,8 @@
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2901
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "elixir-explorer",
             "repo": "explorer",
             "stars": 1291
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "livebook-dev",
             "repo": "kino",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "livebook-dev",
             "repo": "pythonx",
             "stars": 315
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         }
       ],
       "title": "Core Tools"
@@ -80,11 +84,12 @@
                 "archived": false,
                 "id": 461248297,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T07:17:09Z",
+                "last_commit": "2026-08-28T12:29:11Z",
                 "owner": "elixir-nx",
                 "repo": "scholar",
                 "stars": 497
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -99,7 +104,8 @@
                 "owner": "acalejos",
                 "repo": "exgboost",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -114,7 +120,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "soothsayer",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -129,7 +136,8 @@
                 "owner": "acalejos",
                 "repo": "mockingjay",
                 "stars": 75
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -144,7 +152,8 @@
                 "owner": "tmbb",
                 "repo": "ulam_ex",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -166,7 +175,8 @@
                 "owner": "elixir-nx",
                 "repo": "axon",
                 "stars": 1688
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -181,7 +191,8 @@
                 "owner": "elixir-nx",
                 "repo": "bumblebee",
                 "stars": 1663
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -196,7 +207,8 @@
                 "owner": "elixir-nx",
                 "repo": "ortex",
                 "stars": 208
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -218,7 +230,8 @@
                 "owner": "cocoa-xu",
                 "repo": "evision",
                 "stars": 392
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -233,7 +246,8 @@
                 "owner": "poeticoding",
                 "repo": "yolo_elixir",
                 "stars": 291
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -248,7 +262,8 @@
                 "owner": "elixir-nx",
                 "repo": "nx_image",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -270,7 +285,8 @@
                 "owner": "elixir-nx",
                 "repo": "ex_faiss",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -285,7 +301,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "stephen",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -300,7 +317,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "leidenfold",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -328,7 +346,8 @@
                 "owner": "thmsmlr",
                 "repo": "instructor_ex",
                 "stars": 783
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -339,11 +358,12 @@
                 "archived": false,
                 "id": 1051339863,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T18:11:00Z",
+                "last_commit": "2026-08-28T19:15:21Z",
                 "owner": "agentjido",
                 "repo": "req_llm",
-                "stars": 566
-              }
+                "stars": 568
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -354,11 +374,12 @@
                 "archived": false,
                 "id": 1121990211,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T21:22:46Z",
+                "last_commit": "2026-08-28T15:34:27Z",
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
-                "stars": 331
-              }
+                "stars": 332
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -373,7 +394,8 @@
                 "owner": "cyberchitta",
                 "repo": "openai_ex",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -388,7 +410,8 @@
                 "owner": "ash-project",
                 "repo": "ash_ai",
                 "stars": 189
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -399,11 +422,12 @@
                 "archived": false,
                 "id": 849697864,
                 "language": "Elixir",
-                "last_commit": "2026-08-24T18:14:56Z",
+                "last_commit": "2026-08-28T21:01:48Z",
                 "owner": "martosaur",
                 "repo": "instructor_lite",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -418,7 +442,8 @@
                 "owner": "aaronrussell",
                 "repo": "ollama-ex",
                 "stars": 139
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -433,7 +458,8 @@
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -444,11 +470,12 @@
                 "archived": false,
                 "id": 1132741688,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T18:05:31Z",
+                "last_commit": "2026-08-28T16:33:04Z",
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -463,7 +490,8 @@
                 "owner": "bitcrowd",
                 "repo": "rag",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -478,7 +506,8 @@
                 "owner": "guess",
                 "repo": "claude_code",
                 "stars": 96
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -493,7 +522,8 @@
                 "owner": "seanmor5",
                 "repo": "honeycomb",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -508,7 +538,8 @@
                 "owner": "doofinder",
                 "repo": "llm_composer",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -523,7 +554,8 @@
                 "owner": "nshkrdotcom",
                 "repo": "gemini_ex",
                 "stars": 35
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -538,7 +570,8 @@
                 "owner": "nshkrdotcom",
                 "repo": "json_remedy",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -553,7 +586,8 @@
                 "owner": "zoedsoupe",
                 "repo": "mentor",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -568,7 +602,8 @@
                 "owner": "nshkrdotcom",
                 "repo": "ds_ex",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -583,7 +618,8 @@
                 "owner": "martosaur",
                 "repo": "handwave",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -598,7 +634,8 @@
                 "owner": "rodloboz",
                 "repo": "mistral",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -616,11 +653,12 @@
                 "archived": false,
                 "id": 903999320,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T23:02:22Z",
+                "last_commit": "2026-08-28T14:10:50Z",
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1824
-              }
+                "stars": 1825
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -635,7 +673,8 @@
                 "owner": "brainlid",
                 "repo": "langchain",
                 "stars": 1196
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -650,7 +689,8 @@
                 "owner": "sagents-ai",
                 "repo": "sagents",
                 "stars": 271
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -661,11 +701,12 @@
                 "archived": false,
                 "id": 904841321,
                 "language": "Elixir",
-                "last_commit": "2026-08-26T18:56:06Z",
+                "last_commit": "2026-08-28T14:27:45Z",
                 "owner": "agentjido",
                 "repo": "jido_ai",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -680,7 +721,8 @@
                 "owner": "nrrso",
                 "repo": "swarm_ex",
                 "stars": 91
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -695,7 +737,8 @@
                 "owner": "nshkrdotcom",
                 "repo": "synapse",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -710,7 +753,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "bazaar",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -732,7 +776,8 @@
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
                 "stars": 847
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -747,7 +792,8 @@
                 "owner": "ash-project",
                 "repo": "usage_rules",
                 "stars": 220
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -762,7 +808,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "claude-code-elixir",
                 "stars": 169
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -777,7 +824,8 @@
                 "owner": "zoedsoupe",
                 "repo": "anubis-mcp",
                 "stars": 168
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -792,7 +840,8 @@
                 "owner": "beamlens",
                 "repo": "beamlens",
                 "stars": 136
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -807,7 +856,8 @@
                 "owner": "tidewave-ai",
                 "repo": "mcp_proxy_elixir",
                 "stars": 102
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -822,7 +872,8 @@
                 "owner": "bradleygolden",
                 "repo": "hexdocs-mcp",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -833,11 +884,12 @@
                 "archived": false,
                 "id": 1089661178,
                 "language": "Elixir",
-                "last_commit": "2026-08-27T17:53:27Z",
+                "last_commit": "2026-08-28T15:37:04Z",
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -852,7 +904,8 @@
                 "owner": "ash-project",
                 "repo": "evals",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -867,7 +920,8 @@
                 "owner": "georgeguimaraes",
                 "repo": "alike",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -878,11 +932,12 @@
                 "archived": false,
                 "id": 989917799,
                 "language": "Elixir",
-                "last_commit": "2026-08-28T00:39:41Z",
+                "last_commit": "2026-08-28T01:39:18Z",
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
                 "stars": 22
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -897,7 +952,8 @@
                 "owner": "North-Shore-AI",
                 "repo": "LlmGuard",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -912,7 +968,8 @@
                 "owner": "lostbean",
                 "repo": "agent_obs",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             }
           ],
           "description": null,
@@ -938,7 +995,8 @@
             "owner": "nickgnd",
             "repo": "programming-machine-learning-livebooks",
             "stars": 209
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         },
         {
           "node_type": "item",
@@ -953,7 +1011,8 @@
             "owner": "josevalim",
             "repo": "livebooks",
             "stars": 205
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         },
         {
           "node_type": "item",
@@ -968,14 +1027,15 @@
             "owner": "whatyouhide",
             "repo": "guide_async_processing_in_elixir",
             "stars": 155
-          }
+          },
+          "first_seen": "2026-08-29T00:26:10.509Z"
         }
       ],
       "title": "Livebooks & Examples"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:45:39.088Z",
+    "last_updated": "2026-08-29T00:26:10.509Z",
     "original_repository_info": {
       "archived": false,
       "id": 739420294,
