@@ -16,7 +16,7 @@
             "language": "Elixir",
             "license": null,
             "last_commit": "2026-08-18T16:13:06Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2901,
@@ -245,8 +245,8 @@
                 "id": 332750859,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-23T22:35:43Z",
-                "open_issues": 30,
+                "last_commit": "2026-08-29T16:30:02Z",
+                "open_issues": 26,
                 "owner": "elixir-nx",
                 "repo": "axon",
                 "stars": 1688,
@@ -681,7 +681,7 @@
                 "open_issues": 5,
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1009,7 +1009,7 @@
                 "open_issues": 5,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1825,
+                "stars": 1826,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1149,7 +1149,7 @@
                 "open_issues": 0,
                 "owner": "nshkrdotcom",
                 "repo": "synapse",
-                "stars": 49,
+                "stars": 50,
                 "topics": [
                   "agent-orchestration",
                   "ai",
@@ -1374,7 +1374,7 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T15:37:04Z",
+                "last_commit": "2026-08-29T06:51:56Z",
                 "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "llmdb",
@@ -1454,7 +1454,7 @@
                 "open_issues": 2,
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
-                "stars": 22,
+                "stars": 23,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:47:41.092Z",
+    "last_updated": "2026-08-29T19:14:21.346Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
