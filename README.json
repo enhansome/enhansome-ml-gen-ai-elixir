@@ -16,7 +16,7 @@
             "language": "Elixir",
             "license": null,
             "last_commit": "2026-08-18T16:13:06Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2901,
@@ -125,8 +125,8 @@
                 "id": 461248297,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T12:29:11Z",
-                "open_issues": 15,
+                "last_commit": "2026-08-30T17:07:29Z",
+                "open_issues": 14,
                 "owner": "elixir-nx",
                 "repo": "scholar",
                 "stars": 497,
@@ -246,7 +246,7 @@
                 "language": "Elixir",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T16:30:02Z",
-                "open_issues": 26,
+                "open_issues": 27,
                 "owner": "elixir-nx",
                 "repo": "axon",
                 "stars": 1688,
@@ -552,7 +552,7 @@
                 "open_issues": 2,
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
-                "stars": 332,
+                "stars": 333,
                 "topics": [
                   "agent",
                   "elixir",
@@ -1005,11 +1005,11 @@
                 "id": 903999320,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T14:10:50Z",
-                "open_issues": 5,
+                "last_commit": "2026-08-30T12:44:53Z",
+                "open_issues": 10,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1826,
+                "stars": 1827,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1040,7 +1040,7 @@
                 "open_issues": 29,
                 "owner": "brainlid",
                 "repo": "langchain",
-                "stars": 1196,
+                "stars": 1198,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -1070,7 +1070,7 @@
                 "open_issues": 3,
                 "owner": "sagents-ai",
                 "repo": "sagents",
-                "stars": 271,
+                "stars": 272,
                 "topics": [
                   "agent",
                   "agentic",
@@ -1215,8 +1215,8 @@
                 "id": 968046142,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-23T07:31:48Z",
-                "open_issues": 6,
+                "last_commit": "2026-08-30T17:06:16Z",
+                "open_issues": 5,
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
                 "stars": 847,
@@ -1336,7 +1336,7 @@
                 "open_issues": 1,
                 "owner": "tidewave-ai",
                 "repo": "mcp_proxy_elixir",
-                "stars": 102,
+                "stars": 101,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1374,7 +1374,7 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T06:51:56Z",
+                "last_commit": "2026-08-30T05:01:18Z",
                 "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "llmdb",
@@ -1454,7 +1454,7 @@
                 "open_issues": 2,
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
-                "stars": 23,
+                "stars": 24,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:14:21.346Z",
+    "last_updated": "2026-08-30T19:04:07.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
