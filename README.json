@@ -15,8 +15,8 @@
             "id": 308172757,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-01T02:15:54Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-02T23:21:11Z",
+            "open_issues": 2,
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2902,
@@ -70,8 +70,8 @@
             "id": 372499099,
             "language": "Elixir",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-26T11:37:11Z",
-            "open_issues": 8,
+            "last_commit": "2026-09-03T07:40:21Z",
+            "open_issues": 9,
             "owner": "livebook-dev",
             "repo": "kino",
             "stars": 450,
@@ -125,8 +125,8 @@
                 "id": 461248297,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T14:58:52Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-02T19:31:37Z",
+                "open_issues": 13,
                 "owner": "elixir-nx",
                 "repo": "scholar",
                 "stars": 497,
@@ -276,7 +276,7 @@
                 "open_issues": 33,
                 "owner": "elixir-nx",
                 "repo": "bumblebee",
-                "stars": 1665,
+                "stars": 1666,
                 "topics": [
                   "axon",
                   "elixir",
@@ -365,7 +365,7 @@
                 "open_issues": 9,
                 "owner": "poeticoding",
                 "repo": "yolo_elixir",
-                "stars": 291,
+                "stars": 290,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -622,7 +622,7 @@
                 "id": 849697864,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-08-31T17:19:13Z",
+                "last_commit": "2026-09-03T17:51:06Z",
                 "open_issues": 0,
                 "owner": "martosaur",
                 "repo": "instructor_lite",
@@ -702,7 +702,7 @@
                 "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
-                "stars": 108,
+                "stars": 110,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1009,7 +1009,7 @@
                 "open_issues": 5,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1828,
+                "stars": 1829,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1191,7 +1191,7 @@
                 "open_issues": 0,
                 "owner": "georgeguimaraes",
                 "repo": "bazaar",
-                "stars": 5,
+                "stars": 6,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1219,7 +1219,7 @@
                 "open_issues": 5,
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
-                "stars": 847,
+                "stars": 848,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1261,7 +1261,7 @@
                 "open_issues": 0,
                 "owner": "georgeguimaraes",
                 "repo": "claude-code-elixir",
-                "stars": 169,
+                "stars": 168,
                 "topics": [
                   "claude-code",
                   "ecto",
@@ -1374,8 +1374,8 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T18:17:12Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-03T17:53:27Z",
+                "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 58,
@@ -1450,8 +1450,8 @@
                 "id": 989917799,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-02T18:20:37Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-02T21:41:56Z",
+                "open_issues": 2,
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
                 "stars": 26,
@@ -1513,7 +1513,7 @@
                 "id": 1081758708,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-06-17T21:36:01Z",
+                "last_commit": "2026-09-03T12:44:16Z",
                 "open_issues": 0,
                 "owner": "lostbean",
                 "repo": "agent_obs",
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T19:14:40.351Z",
+    "last_updated": "2026-09-03T19:08:19.370Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
