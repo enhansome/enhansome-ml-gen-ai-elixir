@@ -16,7 +16,7 @@
             "language": "Elixir",
             "license": null,
             "last_commit": "2026-09-02T23:21:11Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2903,
@@ -48,7 +48,7 @@
             "open_issues": 56,
             "owner": "elixir-explorer",
             "repo": "explorer",
-            "stars": 1291,
+            "stars": 1292,
             "topics": [
               "data-science",
               "dataframes",
@@ -520,8 +520,8 @@
                 "id": 1051339863,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T18:04:27Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-05T15:53:12Z",
+                "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "req_llm",
                 "stars": 569,
@@ -702,7 +702,7 @@
                 "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
-                "stars": 110,
+                "stars": 111,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1005,11 +1005,11 @@
                 "id": 903999320,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T15:51:11Z",
+                "last_commit": "2026-09-05T13:42:25Z",
                 "open_issues": 4,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1830,
+                "stars": 1832,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1247,6 +1247,31 @@
             },
             {
               "node_type": "item",
+              "title": "Anubis MCP",
+              "description": "SDK for the Model Context Protocol (MCP) with support for multiple transport options (STDIO, HTTP/SSE, WebSocket).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Elixir Model Context Protocol (MCP) SDK (hermes-mcp fork)",
+                "homepage": "https://hexdocs.pm/anubis_mcp",
+                "id": 1029217941,
+                "language": "Elixir",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-31T18:44:12Z",
+                "open_issues": 22,
+                "owner": "zoedsoupe",
+                "repo": "anubis-mcp",
+                "stars": 169,
+                "topics": [
+                  "elixir",
+                  "mcp",
+                  "mcp-sdk"
+                ]
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
+            },
+            {
+              "node_type": "item",
               "title": "claude-code-elixir",
               "description": "Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.",
               "children": [],
@@ -1270,31 +1295,6 @@
                   "oban",
                   "otp",
                   "phoenix"
-                ]
-              },
-              "first_seen": "2026-08-29T00:26:10.509Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Anubis MCP",
-              "description": "SDK for the Model Context Protocol (MCP) with support for multiple transport options (STDIO, HTTP/SSE, WebSocket).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Elixir Model Context Protocol (MCP) SDK (hermes-mcp fork)",
-                "homepage": "https://hexdocs.pm/anubis_mcp",
-                "id": 1029217941,
-                "language": "Elixir",
-                "license": "NOASSERTION",
-                "last_commit": "2026-08-31T18:44:12Z",
-                "open_issues": 21,
-                "owner": "zoedsoupe",
-                "repo": "anubis-mcp",
-                "stars": 168,
-                "topics": [
-                  "elixir",
-                  "mcp",
-                  "mcp-sdk"
                 ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1374,11 +1374,11 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-04T18:31:27Z",
+                "last_commit": "2026-09-05T04:06:28Z",
                 "open_issues": 0,
                 "owner": "agentjido",
                 "repo": "llmdb",
-                "stars": 58,
+                "stars": 59,
                 "topics": [
                   "ai",
                   "elixir",
@@ -1450,11 +1450,11 @@
                 "id": 989917799,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-02T21:41:56Z",
-                "open_issues": 4,
+                "last_commit": "2026-09-05T15:05:58Z",
+                "open_issues": 3,
                 "owner": "azmaveth",
                 "repo": "ex_mcp",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T18:50:52.478Z",
+    "last_updated": "2026-09-05T17:57:15.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
