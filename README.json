@@ -15,8 +15,8 @@
             "id": 308172757,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-09-07T23:17:05Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-10T21:16:34Z",
+            "open_issues": 1,
             "owner": "elixir-nx",
             "repo": "nx",
             "stars": 2904,
@@ -44,8 +44,8 @@
             "id": 388683644,
             "language": "Elixir",
             "license": "MIT",
-            "last_commit": "2026-08-09T22:24:06Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-11T02:29:25Z",
+            "open_issues": 55,
             "owner": "elixir-explorer",
             "repo": "explorer",
             "stars": 1292,
@@ -520,8 +520,8 @@
                 "id": 1051339863,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-09T22:30:30Z",
-                "open_issues": 3,
+                "last_commit": "2026-09-11T16:12:13Z",
+                "open_issues": 6,
                 "owner": "agentjido",
                 "repo": "req_llm",
                 "stars": 570,
@@ -548,8 +548,8 @@
                 "id": 1121990211,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-08T05:43:36Z",
-                "open_issues": 2,
+                "last_commit": "2026-09-11T05:43:26Z",
+                "open_issues": 3,
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
                 "stars": 335,
@@ -698,8 +698,8 @@
                 "id": 1132741688,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-10T17:46:32Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T15:13:06Z",
+                "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
                 "stars": 111,
@@ -795,7 +795,7 @@
                 "id": 859910095,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-02T08:49:35Z",
+                "last_commit": "2026-09-11T11:21:49Z",
                 "open_issues": 1,
                 "owner": "doofinder",
                 "repo": "llm_composer",
@@ -1009,7 +1009,7 @@
                 "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1850,
+                "stars": 1855,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1066,7 +1066,7 @@
                 "id": 1149341400,
                 "language": "Elixir",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-24T04:06:32Z",
+                "last_commit": "2026-09-10T19:45:27Z",
                 "open_issues": 4,
                 "owner": "sagents-ai",
                 "repo": "sagents",
@@ -1219,7 +1219,7 @@
                 "open_issues": 5,
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
-                "stars": 848,
+                "stars": 849,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1240,8 +1240,37 @@
                 "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "usage_rules",
-                "stars": 222,
+                "stars": 223,
                 "topics": []
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
+            },
+            {
+              "node_type": "item",
+              "title": "claude-code-elixir",
+              "description": "Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Elixir development skills with optional Mix checks and Expert language server integration",
+                "homepage": null,
+                "id": 1123032156,
+                "language": "Shell",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-06T01:28:20Z",
+                "open_issues": 0,
+                "owner": "georgeguimaraes",
+                "repo": "elixir-agent-tools",
+                "stars": 171,
+                "topics": [
+                  "claude-code",
+                  "ecto",
+                  "elixir",
+                  "marketplace",
+                  "oban",
+                  "otp",
+                  "phoenix"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -1266,35 +1295,6 @@
                   "elixir",
                   "mcp",
                   "mcp-sdk"
-                ]
-              },
-              "first_seen": "2026-08-29T00:26:10.509Z"
-            },
-            {
-              "node_type": "item",
-              "title": "claude-code-elixir",
-              "description": "Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Elixir development skills with optional Mix checks and Expert language server integration",
-                "homepage": null,
-                "id": 1123032156,
-                "language": "Shell",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-06T01:28:20Z",
-                "open_issues": 0,
-                "owner": "georgeguimaraes",
-                "repo": "elixir-agent-tools",
-                "stars": 169,
-                "topics": [
-                  "claude-code",
-                  "ecto",
-                  "elixir",
-                  "marketplace",
-                  "oban",
-                  "otp",
-                  "phoenix"
                 ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1374,7 +1374,7 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-10T04:16:38Z",
+                "last_commit": "2026-09-11T04:14:51Z",
                 "open_issues": 0,
                 "owner": "agentjido",
                 "repo": "llmdb",
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T18:58:49.980Z",
+    "last_updated": "2026-09-11T19:00:05.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
