@@ -520,11 +520,11 @@
                 "id": 1051339863,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T16:12:13Z",
-                "open_issues": 6,
+                "last_commit": "2026-09-11T21:39:09Z",
+                "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "req_llm",
-                "stars": 570,
+                "stars": 573,
                 "topics": [
                   "ai",
                   "ai-providers",
@@ -667,27 +667,6 @@
             },
             {
               "node_type": "item",
-              "title": "TextChunker",
-              "description": "Semantic text chunking library optimized for vector embedding and RAG applications.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library for semantically coherent text chunking",
-                "homepage": null,
-                "id": 760059381,
-                "language": "Elixir",
-                "license": "MIT",
-                "last_commit": "2026-09-08T14:28:13Z",
-                "open_issues": 5,
-                "owner": "revelrylabs",
-                "repo": "text_chunker_ex",
-                "stars": 111,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:26:10.509Z"
-            },
-            {
-              "node_type": "item",
               "title": "Tribunal",
               "description": "LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality",
               "children": [],
@@ -702,6 +681,27 @@
                 "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
+                "stars": 113,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
+            },
+            {
+              "node_type": "item",
+              "title": "TextChunker",
+              "description": "Semantic text chunking library optimized for vector embedding and RAG applications.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library for semantically coherent text chunking",
+                "homepage": null,
+                "id": 760059381,
+                "language": "Elixir",
+                "license": "MIT",
+                "last_commit": "2026-09-08T14:28:13Z",
+                "open_issues": 5,
+                "owner": "revelrylabs",
+                "repo": "text_chunker_ex",
                 "stars": 111,
                 "topics": []
               },
@@ -1009,7 +1009,7 @@
                 "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1855,
+                "stars": 1857,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1036,8 +1036,8 @@
                 "id": 665653661,
                 "language": "Elixir",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-09T03:31:59Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-12T16:47:53Z",
+                "open_issues": 31,
                 "owner": "brainlid",
                 "repo": "langchain",
                 "stars": 1201,
@@ -1219,7 +1219,7 @@
                 "open_issues": 5,
                 "owner": "tidewave-ai",
                 "repo": "tidewave_phoenix",
-                "stars": 849,
+                "stars": 851,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1240,7 +1240,7 @@
                 "open_issues": 1,
                 "owner": "ash-project",
                 "repo": "usage_rules",
-                "stars": 223,
+                "stars": 224,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1374,7 +1374,7 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T04:14:51Z",
+                "last_commit": "2026-09-12T04:14:40Z",
                 "open_issues": 0,
                 "owner": "agentjido",
                 "repo": "llmdb",
@@ -1615,7 +1615,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:00:05.498Z",
+    "last_updated": "2026-09-12T18:09:11.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
