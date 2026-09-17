@@ -32,8 +32,8 @@ Besides giving an overview for experienced Elixir developers, this list can be u
 
 ## Core Tools
 
-* [Nx](https://github.com/elixir-nx/nx) ⭐ 2,905 | 🐛 1 | 🌐 Elixir | 📅 2026-09-10 - Tensors for Elixir with compilation to CPU/GPU. It is the base for a lot of other libraries.
-* [Explorer](https://github.com/elixir-explorer/explorer) ⭐ 1,292 | 🐛 57 | 🌐 Elixir | 📅 2026-09-11 - Series and dataframes for data exploration in Elixir.
+* [Nx](https://github.com/elixir-nx/nx) ⭐ 2,906 | 🐛 2 | 🌐 Elixir | 📅 2026-09-10 - Tensors for Elixir with compilation to CPU/GPU. It is the base for a lot of other libraries.
+* [Explorer](https://github.com/elixir-explorer/explorer) ⭐ 1,292 | 🐛 58 | 🌐 Elixir | 📅 2026-09-11 - Series and dataframes for data exploration in Elixir.
 * [Kino](https://github.com/livebook-dev/kino) ⭐ 449 | 🐛 8 | 🌐 Elixir | 📅 2026-09-15 - Render rich and interactive output. Used in Livebook.
 * [Pythonx](https://github.com/livebook-dev/pythonx) ⭐ 316 | 🐛 4 | 🌐 Elixir | 📅 2026-05-18 - Embeds a Python interpreter directly into Elixir via NIF, running in the same OS process as the BEAM. Enables Elixir apps and Livebooks to call Python ML libraries directly.
 * [EMLX](https://github.com/elixir-nx/emlx) ⭐ 160 | 🐛 1 | 🌐 Elixir | 📅 2026-09-07 - Nx backend and compiler for Apple MLX. Runs Nx, Axon and Bumblebee on Apple Silicon GPUs.
@@ -54,14 +54,14 @@ Besides giving an overview for experienced Elixir developers, this list can be u
   * Dimensionality reduction
   * Metrics and preprocessing
 * [EXGBoost](https://github.com/acalejos/exgboost) ⭐ 186 | 🐛 10 | 🌐 Elixir | 📅 2024-06-08 - Decision Trees implemented using the [XGBoost C API](https://xgboost.readthedocs.io/en/latest/c.html).
-* [Soothsayer](https://github.com/georgeguimaraes/soothsayer) ⭐ 139 | 🐛 2 | 🌐 Elixir | 📅 2026-09-16 - Time series forecasting library inspired by Facebook's Prophet and NeuralProphet.
+* [Soothsayer](https://github.com/georgeguimaraes/soothsayer) ⭐ 139 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - Time series forecasting library inspired by Facebook's Prophet and NeuralProphet.
 * [Mockinjay](https://github.com/acalejos/mockingjay) ⭐ 75 | 🐛 1 | 🌐 Elixir | 📅 2023-09-02 - Implementation of Microsoft's [Hummingbird](https://github.com/microsoft/hummingbird) ⭐ 3,544 | 🐛 76 | 🌐 Python | 📅 2026-09-14 library for converting trained Decision Tree models into Nx tensor computations.
 * [eXMC](https://github.com/borodark/eXMC) ⭐ 11 | 🐛 0 | 🌐 Elixir | 📅 2026-09-13 - Probabilistic programming on the BEAM inspired by PyMC: declarative models, NUTS sampling and Bayesian diagnostics on Nx tensors.
 * [Ulam](https://github.com/tmbb/ulam_ex) ⭐ 10 | 🐛 0 | 🌐 HTML | 📅 2024-10-04 - Elixir interface to [Stan](https://mc-stan.org/), a probabilist programming language.
 
 ### Deep Learning
 
-* [Axon](https://github.com/elixir-nx/axon) ⭐ 1,690 | 🐛 30 | 🌐 Elixir | 📅 2026-08-29 - Neural Networks for Elixir. Built with Nx.
+* [Axon](https://github.com/elixir-nx/axon) ⭐ 1,690 | 🐛 35 | 🌐 Elixir | 📅 2026-08-29 - Neural Networks for Elixir. Built with Nx.
 * [Bumblebee](https://github.com/elixir-nx/bumblebee) ⭐ 1,668 | 🐛 33 | 🌐 Elixir | 📅 2026-08-19 - Pre-trained neural network models on top of Axon. Provides integration with [Hugging Face](https://huggingface.co/).
 * [Ortex](https://github.com/elixir-nx/ortex) ⭐ 210 | 🐛 9 | 🌐 Elixir | 📅 2026-02-10 - Wrapper around ONNX. Enables you to run ONNX models using Nx.
 * [Edifice](https://github.com/blasphemetheus/edifice) ⭐ 16 | 🐛 0 | 🌐 Elixir | 📅 2026-08-30 - Catalog of ready-to-use neural network architectures for Nx/Axon, from MLPs and transformers to Mamba, GNNs and VAEs, behind a uniform build API.
@@ -76,27 +76,27 @@ Besides giving an overview for experienced Elixir developers, this list can be u
 
 ### Vector Search & Similarity
 
-* [hnswlib](https://github.com/elixir-nx/hnswlib) ⭐ 71 | 🐛 6 | 🌐 C++ | 📅 2026-09-16 - Elixir binding for the hnswlib approximate nearest neighbour library. In-process vector search with precompiled NIFs.
+* [hnswlib](https://github.com/elixir-nx/hnswlib) ⭐ 71 | 🐛 0 | 🌐 C++ | 📅 2026-09-17 - Elixir binding for the hnswlib approximate nearest neighbour library. In-process vector search with precompiled NIFs.
 * [Qdrant](https://github.com/marinac-dev/qdrant) ⭐ 31 | 🐛 0 | 🌐 Elixir | 📅 2026-08-10 - Client for the Qdrant vector database REST API.
 * [Vettore](https://github.com/elchemista/vettore) ⭐ 25 | 🐛 0 | 🌐 Elixir | 📅 2026-08-25 - In-memory vector database on ETS with Rust-accelerated distance functions and HNSW indexing.
 * [Turbopuffer](https://github.com/jallum/turbopuffer) ⭐ 11 | 🐛 0 | 🌐 Elixir | 📅 2026-05-17 - Client for the Turbopuffer vector and BM25 full-text search API, with hybrid search.
-* [Stephen](https://github.com/georgeguimaraes/stephen) ⭐ 8 | 🐛 1 | 🌐 Elixir | 📅 2026-09-16 - ColBERT-style neural retrieval for Elixir.
-* [Leidenfold](https://github.com/georgeguimaraes/leidenfold) ⭐ 5 | 🐛 0 | 🌐 Elixir | 📅 2026-09-16 - Elixir bindings for the Leiden community detection algorithm.
+* [Stephen](https://github.com/georgeguimaraes/stephen) ⭐ 8 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - ColBERT-style neural retrieval for Elixir.
+* [Leidenfold](https://github.com/georgeguimaraes/leidenfold) ⭐ 5 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - Elixir bindings for the Leiden community detection algorithm.
 
 ## Generative AI
 
 ### LLM Tools
 
-* [xberg](https://github.com/xberg-io/xberg) ⭐ 9,314 | 🐛 7 | 🌐 Rust | 📅 2026-09-16 - Document intelligence for RAG ingestion (parsing, OCR, tables, chunking across 100+ formats) with a Rust core and first-party Elixir bindings.
+* [xberg](https://github.com/xberg-io/xberg) ⭐ 9,319 | 🐛 6 | 🌐 Rust | 📅 2026-09-17 - Document intelligence for RAG ingestion (parsing, OCR, tables, chunking across 100+ formats) with a Rust core and first-party Elixir bindings.
 * [Instructor.ex](https://github.com/thmsmlr/instructor_ex) ⭐ 783 | 🐛 41 | 🌐 Elixir | 📅 2025-06-07 - Structured outputs from LLMs using Ecto schemas. Works with OpenAI, llama.cpp and Bumblebee.
-* [ReqLLM](https://github.com/agentjido/req_llm) ⭐ 575 | 🐛 6 | 🌐 Elixir | 📅 2026-09-16 - A Req-based package to call LLM APIs that standardizes the API calls and responses for LLM providers.
-* [Arcana](https://github.com/georgeguimaraes/arcana) ⭐ 337 | 🐛 0 | 🌐 Elixir | 📅 2026-09-15 - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.
+* [ReqLLM](https://github.com/agentjido/req_llm) ⭐ 576 | 🐛 8 | 🌐 Elixir | 📅 2026-09-17 - A Req-based package to call LLM APIs that standardizes the API calls and responses for LLM providers.
+* [Arcana](https://github.com/georgeguimaraes/arcana) ⭐ 337 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - Embeddable RAG library for Elixir/Phoenix with agentic pipelines and dashboard.
 * [OpenAI.ex](https://github.com/cyberchitta/openai_ex) ⭐ 217 | 🐛 2 | 🌐 Elixir | 📅 2026-08-13 - OpenAI API client with streaming, file uploads, and Azure OpenAI support.
-* [AshAi](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 18 | 🌐 Elixir | 📅 2026-09-15 - Structured outputs, vectorization and tool calling for your Ash application with LangChain integration and MCP server capabilities.
+* [AshAi](https://github.com/ash-project/ash_ai) ⭐ 189 | 🐛 14 | 🌐 Elixir | 📅 2026-09-17 - Structured outputs, vectorization and tool calling for your Ash application with LangChain integration and MCP server capabilities.
 * [InstructorLite](https://github.com/martosaur/instructor_lite) ⭐ 143 | 🐛 0 | 🌐 Elixir | 📅 2026-09-14 - Lightweight structured outputs for LLMs using JSON schemas with multi-provider support including OpenAI, Anthropic, and Gemini.
 * [Ollama-ex](https://github.com/lebrunel/ollama-ex) ⭐ 139 | 🐛 1 | 🌐 Elixir | 📅 2026-02-10 - Elixir client for Ollama API with support for completions, chat, tools, and function calling.
+* [Tribunal](https://github.com/georgeguimaraes/tribunal) ⭐ 114 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality
 * [just\_bash](https://github.com/elixir-ai-tools/just_bash) ⭐ 113 | 🐛 4 | 🌐 Elixir | 📅 2026-08-23 - Pure-Elixir bash interpreter and virtual filesystem for sandboxing agent tool calls, built by Knock to run a production agent.
-* [Tribunal](https://github.com/georgeguimaraes/tribunal) ⭐ 113 | 🐛 1 | 🌐 Elixir | 📅 2026-09-16 - LLM evaluation framework that provides tools for evaluating and testing LLM outputs, detecting hallucinations, and measuring response quality
 * [TextChunker](https://github.com/revelrylabs/text_chunker_ex) ⭐ 111 | 🐛 5 | 🌐 Elixir | 📅 2026-09-08 - Semantic text chunking library optimized for vector embedding and RAG applications.
 * [Rag](https://github.com/bitcrowd/rag) ⭐ 102 | 🐛 7 | 🌐 Elixir | 📅 2025-05-12 - Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.
 * [ExOpenAI](https://github.com/dvcrn/ex_openai) ⭐ 101 | 🐛 2 | 🌐 Elixir | 📅 2026-09-09 - OpenAI SDK generated from the API spec, with full typespecs, docs and streaming, so new endpoints land quickly.
@@ -105,38 +105,38 @@ Besides giving an overview for experienced Elixir developers, this list can be u
 * [Anthropix](https://github.com/lebrunel/anthropix) ⭐ 54 | 🐛 2 | 🌐 Elixir | 📅 2025-06-25 - Anthropic Messages API client with streaming and tool use.
 * [LLM Composer](https://github.com/doofinder/llm_composer) ⭐ 40 | 🐛 0 | 🌐 Elixir | 📅 2026-09-14 - Multi-provider LLM library with routing, fallback, streaming, and cost tracking for OpenAI, Anthropic, Gemini, and more.
 * [Aludel](https://github.com/ccarvalho-eng/aludel) ⭐ 37 | 🐛 7 | 🌐 Elixir | 📅 2026-09-14 - Phoenix-native LLM evaluation workbench: prompt tests, model comparison, rubric-based LLM judges, red-team suites, ExUnit assertions and CI gates.
-* [ClaudeAgentSDK](https://github.com/nshkrdotcom/claude_agent_sdk) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-09-07 - Elixir SDK for the Claude Code CLI with streaming and session management.
-* [Gemini.ex](https://github.com/nshkrdotcom/gemini_ex) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-09-07 - Elixir client for Google Gemini LLM supporting both AI Studio and Vertex AI.
+* [ClaudeAgentSDK](https://github.com/nshkrdotcom/claude_agent_sdk) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - Elixir SDK for the Claude Code CLI with streaming and session management.
+* [Gemini.ex](https://github.com/nshkrdotcom/gemini_ex) ⭐ 36 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - Elixir client for Google Gemini LLM supporting both AI Studio and Vertex AI.
 * [GenAI](https://github.com/noizu-labs-ml/genai) ⭐ 33 | 🐛 1 | 🌐 Elixir | 📅 2026-09-05 - Multi-provider generative AI client with chat threads, media jobs and plugin extensions. Supports Anthropic, Gemini, OpenAI, Groq and local llama.cpp.
 * [JsonRemedy](https://github.com/nshkrdotcom/json_remedy) ⭐ 33 | 🐛 3 | 🌐 Elixir | 📅 2026-04-04 - JSON repair library for fixing malformed LLM outputs.
 * [TOON](https://github.com/kentaro/toon_ex) ⭐ 30 | 🐛 2 | 🌐 Elixir | 📅 2026-01-28 - Token-Oriented Object Notation encoder and decoder for compact LLM prompts.
 * [Mentor](https://github.com/zoedsoupe/mentor) ⭐ 22 | 🐛 6 | 🌐 Elixir | 📅 2025-07-18 - Library for generating validated structured outputs from LLMs with automatic retries and schema validation.
 * [extractous\_ex](https://github.com/Valian/extractous_ex) ⭐ 20 | 🐛 3 | 🌐 Elixir | 📅 2026-01-28 - Text and metadata extraction from PDFs, Office documents and more via the Extractous Rust library. Document ingestion for RAG pipelines.
 * [DSPEx](https://github.com/nshkrdotcom/ds_ex) ⭐ 18 | 🐛 1 | 🌐 Elixir | 📅 2026-08-27 - DSPy port for Elixir with data-driven prompt optimization.
-* [Hallmark](https://github.com/georgeguimaraes/hallmark) ⭐ 18 | 🐛 0 | 🌐 Elixir | 📅 2026-09-16 - Hallucination detection using Vectara's HHEM model, running locally on Bumblebee.
+* [Hallmark](https://github.com/georgeguimaraes/hallmark) ⭐ 18 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - Hallucination detection using Vectara's HHEM model, running locally on Bumblebee.
 * [Chunx](https://github.com/preciz/chunx) ⭐ 15 | 🐛 0 | 🌐 Elixir | 📅 2026-08-25 - Text chunking with token, word, sentence and semantic strategies, ported from Chonkie.
 * [Handwave](https://github.com/martosaur/handwave) ⭐ 10 | 🐛 0 | 🌐 Elixir | 📅 2026-06-03 - LLM-powered control flow for Elixir: conditional logic, text rewriting, and routing decisions via natural language rather than code.
 * [Mistral](https://github.com/rodloboz/mistral) ⭐ 9 | 🐛 1 | 🌐 Elixir | 📅 2026-03-02 - Open-source Elixir client for the Mistral AI API covering chat completions, function calling, embeddings, streaming, OCR, fine-tuning, and batch processing.
 
 ### Agent Frameworks
 
-* [Jido](https://github.com/agentjido/jido) ⭐ 1,860 | 🐛 1 | 🌐 Elixir | 📅 2026-09-16 - Framework for building autonomous, distributed agent systems with modular actions, stateful agents, and sensors. AI-framework agnostic.
-* [LangChain](https://github.com/brainlid/langchain) ⭐ 1,201 | 🐛 36 | 🌐 Elixir | 📅 2026-09-16 - Framework for developing applications powered by language models, with support for OpenAI, Anthropic, Google, and Bumblebee models.
-* [Sagents](https://github.com/sagents-ai/sagents) ⭐ 273 | 🐛 6 | 🌐 Elixir | 📅 2026-09-16 - Framework for interactive AI agents with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and a Phoenix LiveView debugger.
-* [Jido.AI](https://github.com/agentjido/jido_ai) ⭐ 204 | 🐛 2 | 🌐 Elixir | 📅 2026-09-15 - LLM integration layer for Jido. Provides actions and reasoning strategies (ReAct, Chain-of-Thought, Tree-of-Thoughts) for building intelligent agents with OpenAI, Anthropic, and other providers.
-* [Legion](https://github.com/software-mansion-labs/legion) ⭐ 204 | 🐛 4 | 🌐 Elixir | 📅 2026-09-16 - Runtime for AI agents that live inside your Elixir app and act by writing code, run in monitored sandboxes, with tools defined as Elixir modules. By Software Mansion.
+* [Jido](https://github.com/agentjido/jido) ⭐ 1,860 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - Framework for building autonomous, distributed agent systems with modular actions, stateful agents, and sensors. AI-framework agnostic.
+* [LangChain](https://github.com/brainlid/langchain) ⭐ 1,201 | 🐛 30 | 🌐 Elixir | 📅 2026-09-17 - Framework for developing applications powered by language models, with support for OpenAI, Anthropic, Google, and Bumblebee models.
+* [Sagents](https://github.com/sagents-ai/sagents) ⭐ 273 | 🐛 3 | 🌐 Elixir | 📅 2026-09-17 - Framework for interactive AI agents with OTP supervision, middleware composition, human-in-the-loop approvals, sub-agent delegation, and a Phoenix LiveView debugger.
+* [Legion](https://github.com/software-mansion-labs/legion) ⭐ 209 | 🐛 4 | 🌐 Elixir | 📅 2026-09-16 - Runtime for AI agents that live inside your Elixir app and act by writing code, run in monitored sandboxes, with tools defined as Elixir modules. By Software Mansion.
+* [Jido.AI](https://github.com/agentjido/jido_ai) ⭐ 204 | 🐛 2 | 🌐 Elixir | 📅 2026-09-17 - LLM integration layer for Jido. Provides actions and reasoning strategies (ReAct, Chain-of-Thought, Tree-of-Thoughts) for building intelligent agents with OpenAI, Anthropic, and other providers.
 * [SwarmEx](https://github.com/nrrso/swarm_ex) ⭐ 91 | 🐛 2 | 🌐 Elixir | 📅 2024-11-10 - Lightweight library for AI agent orchestration with built-in telemetry and tool integration.
-* [Alloy](https://github.com/alloy-ex/alloy) ⭐ 84 | 🐛 4 | 🌐 Elixir | 📅 2026-07-03 - Minimal, OTP-native completion and tool-call loop. Provider-agnostic, with cost guards, and deliberately not a framework.
-* [BeamWeaver](https://github.com/caudena/beam_weaver) ⭐ 50 | 🐛 0 | 🌐 Elixir | 📅 2026-09-10 - LangChain, LangGraph and Deep Agents patterns as native OTP workflows, with tools, memory, human-in-the-loop and tracing.
+* [Alloy](https://github.com/alloy-ex/alloy) ⭐ 85 | 🐛 4 | 🌐 Elixir | 📅 2026-07-03 - Minimal, OTP-native completion and tool-call loop. Provider-agnostic, with cost guards, and deliberately not a framework.
+* [BeamWeaver](https://github.com/caudena/beam_weaver) ⭐ 50 | 🐛 0 | 🌐 Elixir | 📅 2026-09-17 - LangChain, LangGraph and Deep Agents patterns as native OTP workflows, with tools, memory, human-in-the-loop and tracing.
 * [Synapse](https://github.com/nshkrdotcom/synapse) ⭐ 50 | 🐛 0 | 🌐 Elixir | 📅 2026-09-02 - Multi-agent orchestration framework with Postgres persistence.
 * [LangEx](https://github.com/surgeventures/lang_ex) ⭐ 42 | 🐛 6 | 🌐 Elixir | 📅 2026-09-16 - LangGraph-style graph orchestration for durable, human-in-the-loop LLM agents.
 * [A2A](https://github.com/actioncard/a2a-elixir) ⭐ 20 | 🐛 6 | 🌐 Elixir | 📅 2026-09-15 - Elixir implementation of the Agent-to-Agent (A2A) protocol with GenServer-based agents, JSON-RPC 2.0 dispatch, SSE streaming, skill-based discovery, and fleet supervision.
+* [Bazaar](https://github.com/georgeguimaraes/bazaar) ⭐ 8 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - Elixir SDK for serving AI agent commerce protocols (UCP and ACP) from a single Phoenix handler. Supports Google Shopping agents (UCP) and OpenAI/Stripe agents (ACP) with automatic request/response translation between protocols.
 * [A2UI](https://github.com/actioncard/a2ui-elixir) ⭐ 7 | 🐛 4 | 🌐 Elixir | 📅 2026-09-04 - Phoenix LiveView renderer for the Agent-to-UI (A2UI) protocol, converting declarative JSONL agent messages into native LiveView components with two-way data binding.
-* [Bazaar](https://github.com/georgeguimaraes/bazaar) ⭐ 6 | 🐛 9 | 🌐 Elixir | 📅 2026-09-16 - Elixir SDK for serving AI agent commerce protocols (UCP and ACP) from a single Phoenix handler. Supports Google Shopping agents (UCP) and OpenAI/Stripe agents (ACP) with automatic request/response translation between protocols.
 
 ### Development Tools
 
-* [Symphony](https://github.com/openai/symphony) ⭐ 27,235 | 🐛 8 | 🌐 Elixir | 📅 2026-09-15 - OpenAI's reference implementation, written in Elixir, of an orchestrator that runs Codex coding agents against an issue tracker in isolated per-issue workspaces.
+* [Symphony](https://github.com/openai/symphony) ⭐ 27,271 | 🐛 8 | 🌐 Elixir | 📅 2026-09-15 - OpenAI's reference implementation, written in Elixir, of an orchestrator that runs Codex coding agents against an issue tracker in isolated per-issue workspaces.
 * [Tidewave Phoenix](https://github.com/tidewave-ai/tidewave_phoenix) ⭐ 852 | 🐛 5 | 🌐 Elixir | 📅 2026-09-07 - AI-powered development assistant for Phoenix web applications that connects editor AI assistants to web framework runtime via MCP.
 * [Usage Rules](https://github.com/ash-project/usage_rules) ⭐ 224 | 🐛 1 | 🌐 Elixir | 📅 2026-09-07 - Tool for synchronizing LLM rules files with dependencies to prevent AI hallucinations and ensure consistent usage patterns.
 * [claude-code-elixir](https://github.com/georgeguimaraes/claude-code-elixir) ⭐ 173 | 🐛 0 | 🌐 Python | 📅 2026-09-14 - Collection of Claude Code plugins for Elixir development. Includes LSP integration, formatting and compilation hooks, and thinking skills for Elixir, Phoenix, Ecto, and OTP patterns.
@@ -145,11 +145,11 @@ Besides giving an overview for experienced Elixir developers, this list can be u
 * [ExSlop](https://github.com/elixir-vibe/ex_slop) ⭐ 154 | 🐛 0 | 🌐 Elixir | 📅 2026-08-10 - Credo checks that catch AI-generated code slop: blanket rescues, narrator docs, N+1 queries and more.
 * [Beamlens](https://github.com/beamlens/beamlens) ⭐ 136 | 🐛 14 | 🌐 Elixir | 📅 2026-05-10 - AI-powered runtime intelligence for the BEAM. Lives in your supervision tree and uses LLMs to explain metrics, diagnose incidents, detect anomalies, and trace message queue bottlenecks.
 * [HexDocs MCP](https://github.com/bradleygolden/hexdocs-mcp) ⭐ 70 | 🐛 2 | 🌐 Elixir | 📅 2025-06-18 - Enables semantic search of Elixir package documentation for AI assistants via Model Context Protocol (MCP).
-* [llm\_db](https://github.com/agentjido/llm_db) ⭐ 60 | 🐛 0 | 🌐 Elixir | 📅 2026-09-16 - LLM model metadata database with O(1) lookups for provider capabilities, pricing, and context limits. Packaged as a dependency snapshot with no runtime network calls needed.
-* [Evals](https://github.com/ash-project/evals) ⭐ 49 | 🐛 5 | 🌐 Elixir | 📅 2026-09-01 - Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.
+* [llm\_db](https://github.com/agentjido/llm_db) ⭐ 60 | 🐛 1 | 🌐 Elixir | 📅 2026-09-17 - LLM model metadata database with O(1) lookups for provider capabilities, pricing, and context limits. Packaged as a dependency snapshot with no runtime network calls needed.
+* [Evals](https://github.com/ash-project/evals) ⭐ 50 | 🐛 5 | 🌐 Elixir | 📅 2026-09-01 - Tool for evaluating AI language models on Elixir code generation with side-by-side model comparisons and automated testing.
 * [Alike](https://github.com/georgeguimaraes/alike) ⭐ 45 | 🐛 1 | 🌐 Elixir | 📅 2026-09-16 - Semantic similarity testing library using a wave operator (`<~>`) for assertions. Tests whether sentences convey the same meaning rather than exact matches, ideal for validating LLM outputs.
 * [Phantom MCP](https://github.com/dbernheisel/phantom_mcp) ⭐ 35 | 🐛 7 | 🌐 Elixir | 📅 2026-09-04 - MCP server framework for Plug with Streamable HTTP and stdio transports.
-* [ex\_mcp](https://github.com/azmaveth/ex_mcp) ⭐ 29 | 🐛 8 | 🌐 Elixir | 📅 2026-09-05 - Complete Elixir implementation of the Model Context Protocol (v2025-11-25) with client and server support, multiple transports including native BEAM, and 2600+ tests.
+* [ex\_mcp](https://github.com/azmaveth/ex_mcp) ⭐ 29 | 🐛 2 | 🌐 Elixir | 📅 2026-09-16 - Complete Elixir implementation of the Model Context Protocol (v2025-11-25) with client and server support, multiple transports including native BEAM, and 2600+ tests.
 * [LlmGuard](https://github.com/North-Shore-AI/LlmGuard) ⭐ 13 | 🐛 1 | 🌐 Elixir | 📅 2026-04-04 - AI firewall with prompt injection detection, PII redaction, and jailbreak prevention for LLM applications.
 * [AgentObs](https://github.com/lostbean/agent_obs) ⭐ 12 | 🐛 0 | 🌐 Elixir | 📅 2026-09-03 - LLM agent observability with telemetry, token tracking, and OpenTelemetry spans following OpenInference conventions.
 
@@ -248,4 +248,4 @@ This project is licensed under the [CC0 License](LICENSE.md). Feel free to use, 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
