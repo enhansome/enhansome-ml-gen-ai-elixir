@@ -210,7 +210,7 @@
             "open_issues": 21,
             "owner": "ausimian",
             "repo": "emily",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-09-16T19:23:34.495Z"
@@ -418,7 +418,7 @@
                 "language": "Elixir",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T17:31:32Z",
-                "open_issues": 34,
+                "open_issues": 37,
                 "owner": "elixir-nx",
                 "repo": "bumblebee",
                 "stars": 1672,
@@ -789,10 +789,10 @@
                 "language": "Rust",
                 "license": "MIT",
                 "last_commit": "2026-10-03T18:31:11Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "xberg-io",
                 "repo": "xberg",
-                "stars": 9367,
+                "stars": 9375,
                 "topics": [
                   "bun",
                   "csharp",
@@ -1192,27 +1192,6 @@
             },
             {
               "node_type": "item",
-              "title": "LLM Composer",
-              "description": "Multi-provider LLM library with routing, fallback, streaming, and cost tracking for OpenAI, Anthropic, Gemini, and more.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "An Elixir library for integrating large language models (LLMs) via HTTP, supporting OpenAI, Ollama, and other future backends.",
-                "homepage": "https://hex.pm/packages/llm_composer",
-                "id": 859910095,
-                "language": "Elixir",
-                "license": "MIT",
-                "last_commit": "2026-09-30T07:51:50Z",
-                "open_issues": 0,
-                "owner": "doofinder",
-                "repo": "llm_composer",
-                "stars": 40,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:26:10.509Z"
-            },
-            {
-              "node_type": "item",
               "title": "Aludel",
               "description": "Phoenix-native LLM evaluation workbench: prompt tests, model comparison, rubric-based LLM judges, red-team suites, ExUnit assertions and CI gates.",
               "children": [],
@@ -1227,7 +1206,7 @@
                 "open_issues": 0,
                 "owner": "cristianodabc",
                 "repo": "aludel",
-                "stars": 39,
+                "stars": 41,
                 "topics": [
                   "ai",
                   "ai-testing",
@@ -1251,6 +1230,27 @@
                 ]
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
+            },
+            {
+              "node_type": "item",
+              "title": "LLM Composer",
+              "description": "Multi-provider LLM library with routing, fallback, streaming, and cost tracking for OpenAI, Anthropic, Gemini, and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "An Elixir library for integrating large language models (LLMs) via HTTP, supporting OpenAI, Ollama, and other future backends.",
+                "homepage": "https://hex.pm/packages/llm_composer",
+                "id": 859910095,
+                "language": "Elixir",
+                "license": "MIT",
+                "last_commit": "2026-09-30T07:51:50Z",
+                "open_issues": 0,
+                "owner": "doofinder",
+                "repo": "llm_composer",
+                "stars": 40,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -1609,11 +1609,11 @@
                 "id": 903999320,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T18:49:30Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-04T18:27:51Z",
+                "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1872,
+                "stars": 1874,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1704,7 +1704,7 @@
                 "open_issues": 1,
                 "owner": "software-mansion",
                 "repo": "legion",
-                "stars": 221,
+                "stars": 223,
                 "topics": []
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
@@ -2002,7 +2002,7 @@
                 "open_issues": 8,
                 "owner": "openai",
                 "repo": "symphony",
-                "stars": 27516,
+                "stars": 27528,
                 "topics": []
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
@@ -2215,7 +2215,7 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T04:58:11Z",
+                "last_commit": "2026-10-04T05:31:36Z",
                 "open_issues": 0,
                 "owner": "agentjido",
                 "repo": "llmdb",
@@ -2291,8 +2291,8 @@
                 "id": 996577168,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-04T12:55:04Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-04T06:13:51Z",
+                "open_issues": 2,
                 "owner": "dbernheisel",
                 "repo": "phantom_mcp",
                 "stars": 36,
@@ -2312,10 +2312,10 @@
                 "id": 989917799,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-09-28T02:10:12Z",
-                "open_issues": 1,
-                "owner": "azmaveth",
-                "repo": "ex_mcp",
+                "last_commit": "2026-10-04T19:01:29Z",
+                "open_issues": 2,
+                "owner": "trust-arbor",
+                "repo": "arbor_mcp",
                 "stars": 31,
                 "topics": []
               },
@@ -2477,7 +2477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T19:01:47.575Z",
+    "last_updated": "2026-10-04T19:14:30.563Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
