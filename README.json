@@ -19,7 +19,7 @@
             "open_issues": 4,
             "owner": "elixir-nx",
             "repo": "nx",
-            "stars": 2914,
+            "stars": 2915,
             "topics": [
               "elixir",
               "gpu",
@@ -788,8 +788,8 @@
                 "id": 925434317,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:00:53Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-16T21:34:50Z",
+                "open_issues": 16,
                 "owner": "xberg-io",
                 "repo": "xberg",
                 "stars": 9422,
@@ -851,8 +851,8 @@
                 "id": 1051339863,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T19:09:34Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T13:36:11Z",
+                "open_issues": 2,
                 "owner": "agentjido",
                 "repo": "req_llm",
                 "stars": 597,
@@ -883,7 +883,7 @@
                 "open_issues": 4,
                 "owner": "georgeguimaraes",
                 "repo": "arcana",
-                "stars": 340,
+                "stars": 341,
                 "topics": [
                   "agent",
                   "elixir",
@@ -936,7 +936,7 @@
                 "open_issues": 16,
                 "owner": "ash-project",
                 "repo": "ash_ai",
-                "stars": 190,
+                "stars": 191,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1012,7 +1012,7 @@
                 "open_issues": 0,
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
-                "stars": 117,
+                "stars": 118,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1053,11 +1053,32 @@
                 "id": 760059381,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-10-16T16:34:22Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-16T19:54:42Z",
+                "open_issues": 1,
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
                 "stars": 111,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T00:26:10.509Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Rag",
+              "description": "Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "A library to make building performant RAG (Retrieval Augmented Generation) systems in Elixir easy.",
+                "homepage": "https://github.com/bitcrowd/rag",
+                "id": 887507533,
+                "language": "Elixir",
+                "license": "MIT",
+                "last_commit": "2025-05-12T12:51:47Z",
+                "open_issues": 7,
+                "owner": "bitcrowd",
+                "repo": "rag",
+                "stars": 103,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -1085,27 +1106,6 @@
                 ]
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Rag",
-              "description": "Library for building Retrieval Augmented Generation (RAG) systems with support for vector stores like pgvector and chroma.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "A library to make building performant RAG (Retrieval Augmented Generation) systems in Elixir easy.",
-                "homepage": "https://github.com/bitcrowd/rag",
-                "id": 887507533,
-                "language": "Elixir",
-                "license": "MIT",
-                "last_commit": "2025-05-12T12:51:47Z",
-                "open_issues": 7,
-                "owner": "bitcrowd",
-                "repo": "rag",
-                "stars": 102,
-                "topics": []
-              },
-              "first_seen": "2026-08-29T00:26:10.509Z"
             },
             {
               "node_type": "item",
@@ -1344,7 +1344,7 @@
                 "id": 772824591,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-10-16T19:17:57Z",
+                "last_commit": "2026-10-16T20:25:33Z",
                 "open_issues": 1,
                 "owner": "noizu-labs-ml",
                 "repo": "genai",
@@ -1613,7 +1613,7 @@
                 "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1889,
+                "stars": 1891,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1725,7 +1725,7 @@
                 "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "jido_ai",
-                "stars": 210,
+                "stars": 211,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -1808,8 +1808,8 @@
                 "id": 1267072080,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T16:53:03Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-17T13:16:16Z",
+                "open_issues": 1,
                 "owner": "caudena",
                 "repo": "beam_weaver",
                 "stars": 64,
@@ -2002,7 +2002,7 @@
                 "open_issues": 8,
                 "owner": "openai",
                 "repo": "symphony",
-                "stars": 27714,
+                "stars": 27724,
                 "topics": []
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
@@ -2148,7 +2148,7 @@
                 "open_issues": 0,
                 "owner": "elixir-vibe",
                 "repo": "ex_slop",
-                "stars": 169,
+                "stars": 170,
                 "topics": [
                   "ai-code",
                   "anti-patterns",
@@ -2477,7 +2477,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T19:22:00.934Z",
+    "last_updated": "2026-10-17T18:12:26.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
