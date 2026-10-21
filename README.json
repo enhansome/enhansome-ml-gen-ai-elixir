@@ -15,7 +15,7 @@
             "id": 308172757,
             "language": "Elixir",
             "license": null,
-            "last_commit": "2026-10-20T02:21:08Z",
+            "last_commit": "2026-10-20T22:13:38Z",
             "open_issues": 8,
             "owner": "elixir-nx",
             "repo": "nx",
@@ -48,7 +48,7 @@
             "open_issues": 52,
             "owner": "elixir-explorer",
             "repo": "explorer",
-            "stars": 1297,
+            "stars": 1298,
             "topics": [
               "data-science",
               "dataframes",
@@ -118,7 +118,7 @@
             "language": "Elixir",
             "license": "Apache-2.0",
             "last_commit": "2026-10-20T02:19:13Z",
-            "open_issues": 7,
+            "open_issues": 8,
             "owner": "elixir-nx",
             "repo": "emlx",
             "stars": 160,
@@ -235,7 +235,7 @@
                 "id": 461248297,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-24T08:22:10Z",
+                "last_commit": "2026-10-21T03:29:43Z",
                 "open_issues": 13,
                 "owner": "elixir-nx",
                 "repo": "scholar",
@@ -286,10 +286,14 @@
                 "repo": "soothsayer",
                 "stars": 141,
                 "topics": [
+                  "axon",
                   "elixir",
+                  "forecasting",
                   "machine-learning",
                   "neural-networks",
-                  "neuralprophet"
+                  "neuralprophet",
+                  "nx",
+                  "time-series"
                 ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -733,11 +737,14 @@
                 "stars": 8,
                 "topics": [
                   "bert",
+                  "bumblebee",
                   "colbert",
                   "elixir",
                   "embedding",
+                  "information-retrieval",
                   "nx",
-                  "retrieval"
+                  "retrieval",
+                  "semantic-search"
                 ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -759,7 +766,14 @@
                 "owner": "georgeguimaraes",
                 "repo": "leidenfold",
                 "stars": 5,
-                "topics": []
+                "topics": [
+                  "clustering",
+                  "community-detection",
+                  "elixir",
+                  "graph-algorithms",
+                  "leiden",
+                  "network-analysis"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -788,11 +802,11 @@
                 "id": 925434317,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-10-20T18:29:48Z",
-                "open_issues": 6,
+                "last_commit": "2026-10-21T19:07:32Z",
+                "open_issues": 5,
                 "owner": "xberg-io",
                 "repo": "xberg",
-                "stars": 9432,
+                "stars": 9437,
                 "topics": [
                   "bun",
                   "csharp",
@@ -851,11 +865,11 @@
                 "id": 1051339863,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-20T15:06:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-21T19:07:30Z",
+                "open_issues": 2,
                 "owner": "agentjido",
                 "repo": "req_llm",
-                "stars": 597,
+                "stars": 601,
                 "topics": [
                   "ai",
                   "ai-providers",
@@ -886,9 +900,18 @@
                 "stars": 341,
                 "topics": [
                   "agent",
+                  "bumblebee",
+                  "ecto",
                   "elixir",
+                  "embeddings",
+                  "knowledge-graph",
+                  "llm",
                   "nx",
-                  "rag"
+                  "phoenix",
+                  "postgres",
+                  "rag",
+                  "retrieval-augmented-generation",
+                  "vector-search"
                 ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
@@ -932,7 +955,7 @@
                 "id": 849581912,
                 "language": "Elixir",
                 "license": null,
-                "last_commit": "2026-10-19T18:29:02Z",
+                "last_commit": "2026-10-21T15:58:29Z",
                 "open_issues": 16,
                 "owner": "ash-project",
                 "repo": "ash_ai",
@@ -981,7 +1004,7 @@
                 "language": "Elixir",
                 "license": "Apache-2.0",
                 "last_commit": "2026-02-10T16:06:22Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "aaronrussell",
                 "repo": "ollama-ex",
                 "stars": 138,
@@ -1013,7 +1036,15 @@
                 "owner": "georgeguimaraes",
                 "repo": "tribunal",
                 "stars": 118,
-                "topics": []
+                "topics": [
+                  "ai",
+                  "elixir",
+                  "evaluation",
+                  "hallucination-detection",
+                  "llm",
+                  "llm-evaluation",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             },
@@ -1053,8 +1084,8 @@
                 "id": 760059381,
                 "language": "Elixir",
                 "license": "MIT",
-                "last_commit": "2026-10-20T19:27:12Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-20T21:06:53Z",
+                "open_issues": 1,
                 "owner": "revelrylabs",
                 "repo": "text_chunker_ex",
                 "stars": 111,
@@ -1202,8 +1233,8 @@
                 "id": 1186772949,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T09:24:38Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-21T00:40:38Z",
+                "open_issues": 0,
                 "owner": "cristianodabc",
                 "repo": "aludel",
                 "stars": 41,
@@ -1520,6 +1551,7 @@
                   "bumblebee",
                   "elixir",
                   "hallucination-detection",
+                  "llm",
                   "machine-learning",
                   "nlp",
                   "nx"
@@ -1609,11 +1641,11 @@
                 "id": 903999320,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T17:45:42Z",
+                "last_commit": "2026-10-21T12:20:30Z",
                 "open_issues": 1,
                 "owner": "agentjido",
                 "repo": "jido",
-                "stars": 1895,
+                "stars": 1898,
                 "topics": [
                   "agent-framework",
                   "ai-agents",
@@ -1644,7 +1676,7 @@
                 "open_issues": 32,
                 "owner": "brainlid",
                 "repo": "langchain",
-                "stars": 1209,
+                "stars": 1210,
                 "topics": [
                   "ai",
                   "anthropic",
@@ -1975,7 +2007,14 @@
                 "owner": "georgeguimaraes",
                 "repo": "bazaar",
                 "stars": 8,
-                "topics": []
+                "topics": [
+                  "acp",
+                  "agentic-commerce",
+                  "ai-agents",
+                  "elixir",
+                  "sdk",
+                  "ucp"
+                ]
               },
               "first_seen": "2026-08-29T00:26:10.509Z"
             }
@@ -1999,10 +2038,10 @@
                 "language": "Elixir",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-15T22:14:59Z",
-                "open_issues": 8,
+                "open_issues": 0,
                 "owner": "openai",
                 "repo": "symphony",
-                "stars": 27754,
+                "stars": 27772,
                 "topics": []
               },
               "first_seen": "2026-09-16T19:23:34.495Z"
@@ -2068,6 +2107,8 @@
                 "stars": 189,
                 "topics": [
                   "claude-code",
+                  "claude-code-plugin",
+                  "claude-code-skills",
                   "ecto",
                   "elixir",
                   "marketplace",
@@ -2097,6 +2138,8 @@
                 "stars": 189,
                 "topics": [
                   "claude-code",
+                  "claude-code-plugin",
+                  "claude-code-skills",
                   "ecto",
                   "elixir",
                   "marketplace",
@@ -2148,7 +2191,7 @@
                 "open_issues": 0,
                 "owner": "elixir-vibe",
                 "repo": "ex_slop",
-                "stars": 170,
+                "stars": 171,
                 "topics": [
                   "ai-code",
                   "anti-patterns",
@@ -2215,8 +2258,8 @@
                 "id": 1089661178,
                 "language": "Elixir",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-19T11:56:31Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-21T17:34:19Z",
+                "open_issues": 3,
                 "owner": "agentjido",
                 "repo": "llmdb",
                 "stars": 65,
@@ -2270,9 +2313,12 @@
                 "repo": "alike",
                 "stars": 45,
                 "topics": [
+                  "bumblebee",
                   "elixir",
+                  "embeddings",
                   "llm",
                   "nlp",
+                  "semantic-similarity",
                   "testing",
                   "testing-tools"
                 ]
@@ -2313,7 +2359,7 @@
                 "language": "Elixir",
                 "license": "MIT",
                 "last_commit": "2026-10-19T23:34:08Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "trust-arbor",
                 "repo": "arbor_mcp",
                 "stars": 32,
@@ -2477,7 +2523,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T19:50:50.913Z",
+    "last_updated": "2026-10-21T19:56:13.499Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of Machine Learning libraries and resources for the Elixir programming language. ",
@@ -2498,6 +2544,8 @@
         "elixir-lang",
         "elixir-language",
         "elixir-programming-language",
+        "generative-ai",
+        "llm",
         "machine-learning",
         "ml"
       ]
